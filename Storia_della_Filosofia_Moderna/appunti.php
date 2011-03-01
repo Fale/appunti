@@ -1,5 +1,8 @@
 <?php
 require "../class/include.php";
+
+file::head("Storia della Filosofia Moderna - Appunti");
+
 ?>
 
 <h1 id="top">Indice</h1>
@@ -100,6 +103,6 @@ require "../class/include.php";
 
 
 <h1 id="l7">Lezione 7: 01/03/2011</h1><div class="t1"><a href="#top">(top)</a></div>
-
+<p>Copernico non spiega che sta compiendo un Vaglio Critico, nella sua opera <i>Le Rivoluzioni Celesti</i>.
 </body>
 </html>

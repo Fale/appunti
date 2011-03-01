@@ -16,7 +16,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
     <li><a href="#l6">01/03/2011</a>
 </ol>
 
-<h1 id="l1">Lezione 1: 15/02/11</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "1", "15/02/2011"); ?>
 <p>La questione Copernicana è una questione ancora aperta</p>
 <p><i>I testi sono ricchi di problemi, i manuali no </i></p>
 <p>Il testo di Copernico è spesso frainteso dagli storici, poiché molto difficile, se non si conosce la chiave. Copernico sapeva che avrebbe suscitato lo scandalo di filosofi e teologi, quindi scrive in maniera "elitaria". In tutte le università si insegnava la filosofia di Aristotele. Negli anni 1430 arrivano i primi testi greci. Copernico era un grecista, e conosceva il greco a Bologna (e poi Padova, più grande università d'Europa, all'epoca). Platone fu conosciuto in latino nel 1484, ma non venne insegnato nelle università fino a che Jacopo Mazzoni tenne un corso su Platone a fine 1500 alla Sapienza. Tra il '400 e il '500 i testi di Platone venivano letti nelle Accademie (che all'epoca erano circoli letterari, una delle prime era quella di Ficino). Il Platonismo non è una corrente unitaria, un conto è il testo di pPlatone, un'altra le interpretazioni. La tradizione Platonica è molto più vasta di quella Artistotelica. Si passa dallo scietticismo Accademico, al medio Platonismo e al Neoplatonismo. Ficino dava un'interpretazione neo-Platonicca. A Padova c'era un filologo Tomeo che quando si fece l'"Edizio Princeps" (prima edizione di un autore in lingua originale), con le edizioni Albine. Tomeo fu poi professore di Copernico. Copernico e Galileo si ispirano alla tradizione Platonea. La prima spiegazione del motivo per cui pensiamo di essere fermi nonostante siamo in movimento è di Galileo, anche se Copernico aveva già abbozzato questa teoria.</p>
@@ -24,7 +24,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
 <p>Nel decreto del 1616 furono messe in chiaro le problematicità della nuova scienza. Nel 1615/1616 Galileo non fu coinvolto direttamente, anche perchè si mosse il Granduca di Toscana e perchè Galileo non aveva ancora esposto la filosofia naturale che fosse compatibile con il moto della terra. Nel 15-16 Galileo aveva pubblicato un <i>De Motu</i> ma non lo aveva ancora pubblicato, e nel 1610 Galileo pubblica il <i>Siderio duncius</i> dichiarandosi Copernicano. Copernico pubblica nel 1543 il suo volume. Aristarco de Samu è il primo a formulare un'ipotesi cosmologica uguale a quella di Copernico. (Sole al centro, 6 pianeti ). Secondo Aristotele i pianeti sono: Luna, Sole, Marte, Giove, Saturno. Grazie all'opera dell'umanesimo si è scoperto che ci sono altre state teorie al di fuori del Geocentrismo. Anche i Pitagorici sono accennate da Aristotele, ma non pensavano che il sole fosse al centro. Secondo Filolao, tutti i pianeti giravano intorno a un fuoco centrale (sole compreso). I Pitagorici pensavano che la terre si muovesse. Inn filosofia non è tanto importante la tesi, ma l'argomentazione. Non sono arrivate le argomentazioni di Aristarco. Nella storia c'è stato un'intreccio fortissimo tra Pitagorici e Platonici. Gli autori doxografici sono autori che hanno fatto delle opere raccogliendo le idee degli altri filosofi. La fisica del Timeo è corpuscolare. I corpuscoli non sono atomi, ma nel loro incontro e scontro, si rompono e si dividono in triangoli (equilateri e scaleni).</p>
 <p>Il Maestro del Sacro Palazzo si occupava della censura dei libri pubblicati a Roma. L'opera di Copernico è uscita a Norimberga ma in pochi anni si trovava anche a Roma, e per questo censurata. Bartolomeo Spina (Il maestro di Palazzo) muore prima di sporgere denuncia. all'inizio la chiesa non oppone resistenze alla pubblicazione del testo. Copernico non volle pubblicare fino a che Retico lo convinse. Copernico pubblica dedicando al Papa. Spina non capì molto se non che sovvertiva l'ordine attuale. Giovanni Maria Tolosani succede Spina alla morte del secondo. Esso aggiunge un opuscolo alla sua opera criticando tutti i punti di Copernico, ma anche lui non capisce perché è un Tmosita/Domenicano e non ha tradizione Platonica. Anche lui prima di pubblicare, muore. Il testo rimane nel convento di San Marco a Firenze, e verrà letto 70 anni dopo da Gaccini che denuncerà Galileo per eresia. La Chiesa non era preoccupata finché non c'era la fisica che spiegasse i moti. Foscarini capì la Fisica di Copernico, ma fu molto colpito dal decreto del 16. Nel 16 Galileo se la cavò bene infatti non viene neanche citato. Però Bellarmino (sia membro della congregazione dell'Indice sia del Santo Uffizio) fa promettere a Galileo di non insegnare la teoria Coperninaca in nessun modo. Il Dialogo è un'opera scritta in molto tempo (cominciata ascrivere nel 15) Nel frattempo era diventato Papa Umberto XIII, che sembrava amico di Galileo. Galileo alla fine della sua vita nonostante tutto, pubblica il Dialogo sui Massimi Sistemi. Galileo fa arrivare il suo testo oltralpe, ma la chiesa non fece nulla perché non vide il collegamento tra La caduta dei gravi e la teoria copernicana. Ingoli corregge il testo di Copernico elencando tutti i possibili problemi che possono essere evidenziati.</p>
 
-<h1 id="l2">Lezione 2: 17/02/2011</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "2", "17/02/2011"); ?>
 <ul>
 <li>1616: Dichiarazione di attesa per il libro di Copernico
 </ul>
@@ -34,7 +34,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
 <p>Copernico e Galileo, però, interpretarono in modo differente rispetto a Proto.</p>
 <p>Oltre ai commentatori latini (S. Tommaso), vengono scoperti anche commentatori greci (Simplicio). Molte delle tesi Aristoteliche avevano un'interpretazione molto diversa. I commentatori neo-platonici (Simplicio) provano a conciliare le teorie di Aristotele e Platone. Medio-platonici (Plutarco). Anche con l'affinamento degli studi filologici, ci si rese conto che nell'ambito della fisica Aristotele e Platone erano discordi. Tra i primi ad accorgersi di questo, fu il professore di Galileo. Secondo Aristotele, per poter determinare la struttura del mondo (posizione, movimento) bisognava usare la fisica. Aristotele sostiene che sia necessario che il mondo sia finito (perché quello che è infinito é immobile, e se fosse immobile andrebbe contro la percezione sensibile) e i corpi gravi siano attratti dal centro dell'universo e non dal centro della terra. Successivamente ci sono gli elementi leggeri (fuoco) che vanno verso la periferia dell'universo. La quinta essenza si muove in modo circolare (perché è il più perfetto di tutti). Per argomentare afferma che i moti <i>semplici</i>, cioè riproducibili uguali in tutte le sezioni, siano 2: la linea e il punto, cioè sono costituite di parti <i>omeomere</i>. Il moto rettilineo veniva considerato meno perfetto, perché poteva essere allungato all'infinito, mentre la circonferenza no. La quinta essenza, è chiamata etere perché <i>sempre corre</i>. Poiché <b>i moti distinguono le sostanze</b>, se alla terra non appartiene il moto circolare, il cielo è fatto di materiale etereo. Secondo Aristotele, l'astronomia poteva avere come oggetto del proprio studio, lo studio delle stesse cose della fisica, ma l'astronomia non poteva arrivare alla verità, perché misurava grandezze e distanze e usava la matematica come base, quindi qualcosa di non scientifico perché non si faceva riferimento alle essenze, ma solo a proprietà quantitative.</p>
 
-<h1 id="l3">Lezione 3: 18/02/2011</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "3", "18/02/2011"); ?>
 <p>Anche Galileo pone Dio come creatore dell'universo, mentre Aristotele no, e questo desta qualche problema. Platone era un filosofo molto apprezzato sopratutto dalla Chiesa e da Sant'Agostino. Si scopre, però, con la traduzione di Fucino che Platone, nel Timeo, fa una fisica corpuscolare, fatta di atomi geometrici, e una teoria della gravità molto diversa da quella aristotelica. La teoria fisica di Platone non è strettamente geocentrica e geostatica, anche se Platone pone la terra al centro dell'universo. Plutarco concilia la fisica di Platone con la teoria di Aristarco di Samo.</p>
 <p>Il libro di Copernico ha avuto un'enorme diffusione, perché le sue tavole erano le più precise che ci fossero. Copernico, infatti, viene invitato a dare consigli per la riforma del calendario Gregoriano del 1500. Molti considerano Copernico solo come astronomo con accezione antica, mentre i primi che lo considerarono da un punto di vista filosofico sono: Bruno, Keplero, Foscarini e Galilei.</p>
 <p>Galileo, nel Dialogo, vuole rendere esplicite le ragioni di Copernico, che esso non ha esplicitato per la paura di essere ridicolizzato. Galileo, quando ha pubblicato il Dialogo, non aveva ancora pubblicato nessun trattato di fisica matematica. Anche per avere la possibilità di pubblicarle, Galilei decise di abiurare.</p>
@@ -58,7 +58,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
 <li>...
 </ul>
 
-<h1 id="l4">Lezione 4: 22/02/2011</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "4", "22/02/2011"); ?>
 <p>Le tre scienze ... per Platone sono:</p>
 <ul>
 <li>Matematica
@@ -67,7 +67,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
 </ul>
 <p>Successivamente Aristotele degrada la matematica a scienza quantitativa. La scienza fisica può usare solo fenomeni veri, mentre l'astronomia (branca della matematica) può usare artifici.</p>
 
-<h1 id="l5">Lezione 5: 24/02/2011</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "5", "24/02/2011"); ?>
 <p>Nella matematica euclidea, i principi non vengono dimostrati, in quanto principi. Il matematico si avvale di figure concrete (Sensibili) per dimostrare ciò che vuole dimostrare. La riflessione di Platone sulle matematiche è: "Le matematiche, per loro natura, pur contemplando l'oggetto 'in se', tuttavia sono per loro natura discipline ipotetiche, perché si avvalgono per le loro dimostrazioni di ipotesi che non dimostrano". Platone nel VI e nel VII della Repubblica, invitava i matematici da riformare la loro disciplina per fare in modo che divenga una disciplina davvero filosofica, al pari delle altre. Non bisogna partire da un'ipotesi e partire da esso come se fosse un'ipotesi, ma bisogna <i>"dare ragione"</i> delle ipotesi affermate. Si dovrebbe assumere l'ipotesi come ipotesi, e non come principio vero. Si cerca di avviare un procedimento analitico (di salita). (Metodo analitico di Pappo). Il principio del tutto = il principio del bene = Dio.</p>
 <p>Marte, Giove e Saturno dovevano avere un'orbita convessa, mentre Mercurio e Venere concava. Quindi l'unica possa possibile è la presenza della terra tra questi due gruppi.</p>
 <p>La premessa di Copernico viene eliminata perché è molto platonica. Mette:</p>
@@ -85,7 +85,7 @@ file::head("Storia della Filosofia Moderna - Appunti");
 <p>Il meglio appartiene all'intelligenza dell'anima, e fa dell'anima un componente divino</p>
 <p>La mente organizzatrice ordina le cose nel loro insieme e ordina ognuna nel modo per essa migliore. Esempio del Dio orologiaio. In termini cosmologici: Marte sta lì, Giove sta lì, perché stanno dove sono e si muovono come si muovono perché questo è necessario per l'armonia del tutto.</p>
 
-<h1 id="l6">Lezione 6: 25/02/2011</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php toc::l( "6", "25/02/2011"); ?>
 <p>Copernico ci arriva in modo astronomico o filosofico al nuovo sistema? Come astronomo, perché i calcoli di Tolomeo sulla grandezza della luna sono sbagliati. In filosofia non conta la tesi, ma la dimostrazione.</p>
 <p>Retico ha detto che tutto quello che ha pensato di dimostrare Aristotele non è per nulla dimostrato, e Copernico si è fatto la convinzione che tutti gli argomenti che Aristotele usa sono assolutamente inconsistenti. Platone afferma che esiste una relazione tra le distanze orbitali e i tempi orbitali. Questo lo dimostrerà Copernico. Platone afferma che tutti i corpi sono gravi (anche il fuoco). Tutti i gravi si spostano verso il centro della propria massa cosmica. Tutti i pianeti e tutte le stelle sono gravi, non fatti di quinta essenza.</p>
 <p>È vero che un oggetto semplice possa corrispondere un solo movimento semplice? No. Lo scopo dell'astronomia è la scoperta dell'armonia nei cieli. Aristotele sostiene che il mondo (universo) è finito e sferico.</p>
@@ -101,8 +101,31 @@ file::head("Storia della Filosofia Moderna - Appunti");
 <li>Cap 10:
 </ul>
 
-
-<h1 id="l7">Lezione 7: 01/03/2011</h1><div class="t1"><a href="#top">(top)</a></div>
-<p>Copernico non spiega che sta compiendo un Vaglio Critico, nella sua opera <i>Le Rivoluzioni Celesti</i>.
-</body>
-</html>
+<?php toc::l( "7", "01/03/2011"); ?>
+<p>Copernico non spiega che sta compiendo un Vaglio Critico, nella sua opera <i>Le Rivoluzioni Celesti</i>. Copernico sa benissimo che i suoi scritti sono molto criticabili, e lo scrive nella dedica a Paolo VI. Copernico, però non si interessa della cosa perché lui si riferiva solo a chi conosceva le matematiche. Secondo Copernico, le Sacre Scritture non devono occuparsi del mondo naturale.</p>
+<p>Nel 700 il papa Zaccaria si appoggiò sulla teoria della terra piatta, per defnire eretica la teoria degli Antipodi (qualcuno che vive dall'altra parte della Terra).</p>
+<p>Le confutazioni (capitoli 1~4)</p>
+<?php toc::l2( "7.1", "Primi quattro capitoli"); ?>
+<ul>
+<li>La terra è sferica
+<li>Gli astri sono sferici
+</ul>
+<p>Nel terzo capitolo Copernico dimostra che la distribuzione delle terre sulla Terra sia abbastanza omogennea, e quindi il centro di gravità della terra è vicino a quello della sfera. Afferma inoltre che il rapporto di terra e acqua a livello terrestre, c'è molta più terra che acqua.</p>
+<p>Nel quarto capitolo ricorda che il moto naturale dei corpi testi, seconddo la tradizione Aristotelica, si muovono di moto circolare uniforme, perchècostituiti di quinta essenza. Inoltre richiama la teoia delle sfere concentriche. Per spiegare il motivo degli avvicinamenti dei pianeti con la Terra, Tolomeo aveva introdotto una eccentria della terra rispetto ai circuiti planetari. Copernico ragiona su questo e afferma che se Tolomeo ha dovuto spostare la Terra, in realtà non possiamo essere sicuri di quale astro si allontani e quale si avvicina. Si è sempre sostenuto che la Terra fosse ferma e gli altri pianeti si avvicinassero e allontanassero, ma non è banale come cosa. Inoltre coloro che lo sostenevano, spesso, usavano espedienti paaradossali. Ad esempio, per sostenere l'immobilità della Terra, hanno dovuto sostenere:</p>
+<ul>
+<li>La sfericità del mondo
+<li>Il movimento di tutti i cieli tranne la Terra
+<li>Inventarsi la differenzaa tra i gravi e la quinta essenza
+<li>Far muovere a velociità molto alta tutto il sistema per non far muovere la piccolissima terra
+</ul>
+<p>Nel <i>De Caelo</i>, Aristotele affermava che il Corpo Divino si muoveva di moto circolare. Tolomeo sosteneva che la Terra è come un punto al centro dell'universo e spiegava l'affermazione dicendo che dal nostro punto di osservazione, i nostri orizzonti tagliano a metà la volta, quindi non possiamo che essere al centro. Tolomeo spiega che la Terra è come se fosse un punto, poichè le distanze astronomiche sono grandissime.</p>
+<p>Nel settimo capitolo passa alle ragioni fisiche che sono state usate per spiegare la centralità della Terra. Copernico divide in ragioni di fisica speculativa e feomeni. Le prime sono:</p>
+<ul>
+<li>Fisica speculativa
+<ul>
+<li>Tutti i corpi gravi si portano verso il centro dell'universo. La terra è il più grave di tutti. La terra si porta al centro dell'universo. (Aristotele)
+<li>Ai moti semplici, si associano corpi semplici, uno per corpo. (Aristotele)
+<li>Se la Terra si muovesse di moto circolare, avrebbe come effetto la dispersione di tutte le parti della terra. (Tolomeo)
+</ul>
+</ulZ
+<?php file::footer(); ?>

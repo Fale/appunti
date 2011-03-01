@@ -17,5 +17,13 @@ class file
 
         echo $o;
     }
+    
+    static function footer()
+    {
+        $o = "</body>";
+        $o.= "</html>";
+        
+        echo $o;
+    }
 }
 ?>

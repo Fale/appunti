@@ -117,5 +117,5 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <li>Ai moti semplici, si associano corpi semplici, uno per corpo. (Aristotele)
 <li>Se la Terra si muovesse di moto circolare, avrebbe come effetto la dispersione di tutte le parti della terra. (Tolomeo)
 </ul>
-</ulZ
+</ul>
 <?php file::footer(); ?>

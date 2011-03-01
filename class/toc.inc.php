@@ -3,8 +3,8 @@ class toc
 {
     static function show_toc( $f )
     {
-        $o = "<h1 id=\"top\">Indice</h1>";
-        $o.= "<ol>";
+        $o = "<h1 id=\"top\">Indice</h1>\n";
+        $o.= "<ol>\n";
 
         $ls = file("../" . $f);
         foreach( $ls as $ln => $l )
@@ -16,23 +16,31 @@ class toc
                 {
                     if (!$r[$m[1]])
                     {
-                        $o.= "<ol>";
+                        $o.= "<ol>\n";
                         $r[$m[1]] = 1;
                         $t++;
                     }
-                } else
-                    if ($r[$m[1]])
+                    for($h; $h<7; $h++)
                     {
-                        $o.= "</ol>";
-                        $r[$m[1]] = 0;
-                        $t--;
+                        if($r[$m[1] + $h])
+                        {
+//                            $o.= "</ol>\n";
+                            $r[$m[1] + $h] = 0;
+                        }
                     }
-                $o.= "<li><a href=\"#t" . $m[2] . "\">" . $m[3] . "</a>";
+                } else {
+                    for($t; $t>0; $t--)
+                        $o.="</ol>\n";
+                    $j = 0;
+                    $t = 0;
+                    $r = NULL;
+                }
+                $o.= "<li><a href=\"#t" . $m[2] . "\">" . $m[3] . "</a>\n";
             }
         }
-        for ($j; $j<$t; $j++)
-            $o.="</ol>";
-        $o.= "</ol>";
+        for($t; $t>0; $t--)
+                $o.="</ol>\n";
+        $o.= "</ol>\n";
         echo $o;
     }
 }
@@ -48,6 +56,6 @@ function t3( $n, $t ) { tn( "3", $n, $t ); }
 function t4( $n, $t ) { tn( "4", $n, $t ); }
 function t5( $n, $t ) { tn( "5", $n, $t ); }
 function t6( $n, $t ) { tn( "6", $n, $t ); }
-function t7( $n, $t ) { tn( "7", $n, $t ); }
+function t7( $n, $t ) { tn( "7  ", $n, $t ); }
 
 ?>

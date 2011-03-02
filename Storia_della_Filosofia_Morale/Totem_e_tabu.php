@@ -1,24 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-    <title>Storia della Filosofia Morale - Totem e tabù</title>
-    <style type="text/css" media="screen, projection">
-        @import url("../style.css");
-    </style>
-</head>
-<body>
-<h1 id="top">Indice</h1>
-<ol>
-    <li><a href="#c0">Introduzione</a>
-    <li><a href="#c1">L'orrore dell'incesto</a>
-    <li><a href="#c2">Il tabù e l'ambivalenza dei sentimenti</a>
-    <li><a href="#c3">Animismo, magia e onnipotenza dei pensieri</a>
-    <li><a href="#c4">Il ritorno del totemismo nell'infanzia</a>
-</ol>
+<?php
+require "../class/include.php";
 
-<h1 id="c0">Introduzione</h1><div class="t1"><a href="#top">(top)</a></div>
+file::head("Storia della Filosofia Morale - Appunti");
+
+toc::show_toc("Storia_della_Filosofia_Morale/appunti.php");
+?>
+
+<?php t("0", "Introduzione"); ?>
 <p>L'opera <i>Totem e tabù</i> è divisa in quattro saggi.</p>
 <p>Le parole "Totem" e "Tabù" derivano entrambe dal gergo dell'antropologia.</p>
 <p><b>Totem:</b> progenitore naturale (animale, pianta, elemento naturale) di un clan (stirpe). Concetto tipico di società arcaiche, infatti non presente nella cultura occidentale.</p>
@@ -27,15 +15,13 @@
 <p>Freud più volte usa le espressioni <i>"popoli selvaggi"</i> e <i>"popoli semi-selvaggi"</i> per indicare alcuni popoli con una civiltà inferiore a quella occidentale, ma bisogna considerare che in quel periodo questo era normale, infatti - nello stesso periodo - assistiamo al colonialismo. Freud arriverà a superare, almeno teoricamente, questo preconcetto. Inoltre, le sue conclusioni per la vita dei selvaggi, valgono anche per i popoli europei, quindi - ovviamente - bisogna considerare i selvaggi alla stregua degli europei. Non si può, infatti, tracciare una linea evolutiva per dimostrare che noi siamo più evoluti di loro.</p>
 <p>Freud venne molto criticato sia per il gusto della dissacrazione che spesso mostrava, sia perché accusato di aver mostrato gli umani come esseri mossi soltanto dalle pulsioni di piacere.</p>
 
-<h1 id="c1">L'orrore dell'incesto</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php t("1", "L'orrore dell'incesto"); ?>
 <p>Sin dalla fine dell'1800 ci si era posto il problema dell'obbligo dell'esogamia. L'esogamia è, infatti, la mescolanza dei geni con geni esterni. Il suo opposto è l'endogamia, spessa riferitasi come incesto. La definizione di 'gamia', ovviamente non è unica, ma varia al variare della civiltà considerata. Esistono molteplici situazioni sociali, nelle quali viene prescritta l'endogamia, quali: la Germania Hitleriana (ariani vs others), USA fino al 1967 (neri vs bianchi nel sud), Sud Africa (neri vs bianchi). Nonostante questo si obbligavano delle leggi esogamiche, quando  si parlava a livello familiare.</p>
 <p><b>Westermarck</b> propone la teoria <i>Effetto Westermarck</i>, la quale suggerisce che individui che nascono e vivono sotto lo stesso tetto, perdono l'interesse sessuale l'uno per l'altro. Questa teoria deduce un divieto da una situazione di disinteresse psicologico, e  questo non spiega l'esistenza di una legge che lo proibisca.</p>
 <p><b>Emil Durkheim</b>, Francese di origine ebraica, contemporaneo di Freud che nel 12-13 scrive un'opera sull'analisi della religione anche lui basandosi sugli Aborigeni Australiani. Secondo lui c'è un orrore per il mescolarsi del sangue che colpisce maggiormente la donna (sangue mestruale). Con una donna con la quale si vive, ci sono situazioni in cui si vede il sangue dell'altra persona, creando una situazione di non accettabilità. Questa teoria ha problemi su tutti i fronti, ma per la prima volta inserisce la religione come causa.</p>
 <p><b>Spencer</b> propone una teoria che si fonda su: "in un epoca in cui la virtù cavalleresca è il tratto distintivo di un uomo, la capacità di riuscire a prendere una donna di un'altra tribù, è un motivo di prestigio". Questa teoria di Spencer non riesce a spiegare il motivo per cui si obbligano gli uomini ad acquisire prestigio.</p>
 <p><b>Lévi-Strauss</b> vede in modo capovolto il problema. Pensa che la regola struttura il sistema sociale, non i divieti. Secondo Lévi-Strauss una buona regola per una società sia quella di entrare in contatto quanto più pacifico con altri clan/famiglie, anche scambiandosi le figlie. Secondo Lévi-Strauss, quindi, questa diventa una regola di "buon vicinato".</p>
 <p><b>René Girard</b> (posteriore rispetto a Freud) rimane in una prospettiva Freudiana, considerando che il divieto preceda l'obbligo. Ma è un divieto (non Freudiano) che non verte sulla sorella in quanto cosanguinea, ma il divieto verte sugli oggetti sessuali che essendo troppo vicini, possono creare una rivalità all'interno della famiglia stessa. L'idea è sostanzialmente Freudiana, ma Freud mantiene il tema della parentela, mentre René Girard vede come tema qualsiasi oggetto troppo vicino.</p>
-
-
 <p>Tutte le precedenti teorie non risolvevano il problema per sei motivi:</p>
 <ol>
 <li>Come fa notare Frazer, un uomo non ha motivo di proibire a se stesso qualcosa che non farebbe comunque
@@ -59,7 +45,7 @@
 <p>Freud è spesso accusato di <b>maschilismo</b>, poiché ricopre solo gli uomini dell'intenzione libidica. Parlando, però, del Freud Antropologo, esso, non è così assurdo.</p>
 <p>Secondo Freud, possiamo affermare che l'<b>orrore dell'incesto</b> è un tratto "squisitamente infantile", in cui l'individuo non vuole che gli sia ricordato un elemento della vita infantile e che aveva rimosso in una fase precedente della sua vita psichica. Così questa regola è stata fatta per <b>evitare che l'uomo regredisca all'età infantile</b>. Secondo Freud, quando parliamo della creazione di nuove leggi, gli uomini sono spinti dall'affettività e non dalla razionalità, quindi sotto effetto di paure/angosce. Egli ritiene che gli uomini non calcolano quando creano regole, ma sono mossi - come marionette - dalle loro pulsioni, in questo caso, erotiche.</p>
 
-<h1 id="c2">Il tabù e l'ambivalenza dei sentimenti</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php t("2", "Il tabù e l'ambivalenza dei sentimenti"); ?>
 <p><b>Tabù</b> è una parola polinesiana che si può tradurre con l'espressione <i>"orrore sacro"</i>, cioè un sentimento di repulsione assoluta per qualcosa che è motivi che non sappiamo e di cui non riusciamo a trovare una giustificazione concreta. L'effetto del Tabù è reale, perché le persone lo rendono tale. Si può infrangere un Tabù senza saperlo, ma questo non fa cambiare la colpevolezza della persona.</p>
 <p>La tematica psicoanalitica che è in gioco è il parallelo che c'è tra il tabù e le nevrosi ossessive. Le nevrosi ossessive sono una classe di nevrosi. I nevrosi ossessivi hanno una ossessività nel (non) compiere determinate azioni.</p>
 <p>Freud elenca quattro punti di comunanza tra i nevrotici ossessivi e i Tabù</p>
@@ -125,10 +111,9 @@ Il nevrotico </p>
 <p>Il tabù è anche alla base della nostra morale. Infatti moralità vuol dire la preclusione di compiere atti che seguono un desiderio. L'istanza morale che c'è dentro di me, è una istanza repressiva esterna, interiorizzata. Il tabù, come la morale, è frutto di una cultura che noi facciamo nostra (interiorizziamo) ma che è contro le nostre pulsioni. <i>Più la cultura è moralmente e sessualmente repressiva, più individui nevrotici e quindi infelici saranno presenti.</i> Non è pensabile una società nella quale nessuna morale/tabù è presente. <i>Il soddisfacimento sessuale è innanzi tutto un fatto privato dell'individuo.</i> È impossibile stringere relazioni pubbliche, senza distogliersi dal proprio partner. Le forze sessuali non cimentano le relazioni tra le persone. Il nevrotico grave ha delle pulsioni sessuali molto potenti, e fugge dalla realtà, perché esso è in contrasto con la società.</p>
 <p>Nella prima teoria di Freud evidenzia due pulsioni: quelle erotiche e quelle di conservazione. Le prime devono essere tenute a freno per poter avere anche le seconde. Questa non è una teoria bipolare, perché entrambe le pulsioni sono pulsioni di piacere. Le seconde garantiscono nel tempo una maggiore continuità delle prime. Questa è una dottrina ottimistica, perché nel complesso è una struttura pulsionale che è tutta rivolta al piacere.</p>
 
-<h1 id="c3">Animismo, magia e onnipotenza dei pensieri</h1><div class="t1"><a href="#top">(top)</a></div>
+<?php t("3", "Animismo, magia e onnipotenza dei pensieri"); ?>
 <p>Freud riconduce una serie di pratiche, come la credenza nella magia, negli spiriti, etc, alla fase del narcisismo.</p>
 <p>Freud pensa che ci sia uno sviluppo ordinato nello sviluppo umano.</p>
 <p>Tutti i popoli hanno forme di magia, tranne quelli che ne sono terrorizzati. Il divieto biblico di fare immagini di esseri viventi (e di Dio) non nasce dall'idea che la magia non esiste, ma dal fatto che c'è il timore che un'immagine possa essere usata per scopi magici. Secondo gli egizi, quando il Dio del sole (Ra) calava (tramonto), esso stesse combattendo una lotta contro degli spiriti che provavano a prolungare il più possibile la notte. Il compito dei sacerdoti, era quello di creare immagini di questi demoni, e poi la figura veniva 'maltratta' per aiutare Ra a riemergere il mattino dall'orizzonte. L'azione sugli spiriti si chiama incantesimo. Le pratiche magiche sono antecedenti delle pratiche di incantesimo. Freud sottolinea che la magia è caratterizzata da una sopravvalutazione del pensiero. L'uomo attribuisce alla capacità di collegare due fenomeni psicologici anche a due fenomeni reali. Quando ci si offende, si pensa che questo possa essere una forma di reazione utile. Questa è una forma di sopravvalutazione del pensiero. I bambini molto piccoli non hanno quasi mai la capacità di agire, e quindi usano moltissimo questa capacità. Il piangere è la scoperta della propria debolezza nei confronti del mondo esterno. Il bambino cerca e trova soddisfazioni illusorie.</p>
 <p>L'auto-erotismo che il bambino ha, spesso si manifesta come dito in bocca. La prima fase auto-erotica è caratterizzata da attenzioni verso una parte dell'oggetto e non la sua totalità. Nella seconda, invece è caratterizzata da attenzioni verso un'intero oggetto. Un caso del primo momento è la bocca. Il primo oggetto intero investito di una libidine è lui stesso. Questa è la fase narcisistica, e il bambino si comporta come se fosse innamorata di se stessa. È ancora incapace di investire un'esterno di libidine, ma è già in grado di vedere se stesso completamente come oggetto libidico. Come noi sopravvalutiamo la persona amata, così l'individuo nella fase narcisistica pensa di essere capace di quasi qualunque cosa. Se una persona rimane in questa fase, si diventa megalomani. Il narcisismo intellettuale e l'onnipotenza dei pensieri vanno di pari passo. Nel narcisismo l'individuo non fa i conti con la realtà esterna. Una persona può pensare di essere immortale solamente se è in una fase di esaltazione narcisistica. Il narcisista può raggiungere uno stato di ebrezza senza paragoni, poiché solo lui può vantare l'intera attenzione del suo oggetto di amore. Il narcisismo può acquisire una certa accettabilità se diffuso socialmente. In questi casi il narcisismo deve essere metodizzato e quindi può sopravvivere in modo collettivo senza che questo carattere faccia crollare la società.</p>
-</body>
-</html>
+<?php file::footer(); ?>

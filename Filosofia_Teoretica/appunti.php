@@ -1,21 +1,12 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
-  "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
-<html>
-<head>
-    <title>Filosofia Teoretica</title>
-    <style type="text/css" media="screen, projection">
-        @import url("../style.css");
-    </style>
-</head>
-<body>
-<h1 id="top">Indice</h1>
-<ol>
-    <li><a href="#l4">23/02/2011</a>
-    <li><a href="#l6">25/02/2011</a>
-</ol>
+<?php
+require "../class/include.php";
 
-<h1 id="l4">Lezione 4: 23/02/11</h1><div class="t1"><a href="#top">(top)</a></div>
+file::head("Filosofia Teoretica - Appunti");
+
+toc::show_toc("Filosofia_Teoretica/appunti.php");
+?>
+
+<?php t("4", "23/02/2011"); ?>
 <p>"L'immaginazione è necessariamente un tratto che dobbiamo per forza pensare come caratteristico di una vita animale?""Quali possono essere le ragioni per cui immaginiamo?" Il nostro cervello è fatto per immagazinare dati, e ogni meccanismo per immagazinare i dati, si passa tramite un linguaggio. Per certi tratti, il format che il nostro cervello usa sono le immagini. Il nostro cervello crea mappe per le disposizioni degli oggetti. L'immaginazione ha una ricca funzione biologica. L'immaginazione nella prospettiva del naturalista (uomo come tutti gli altri animali) non spiega perchè l'immaginazione è stata premiata così tanto nella nostra evoluzione. Tomasello sostiene che se paragoniamo la vita dell'uomo a quella degli altri primati, non troviamo le differenze che spereremmo di trovare. Infatti ci sono tantissime somiglianze, e molte caratteristiche umane sono anticipate da altri animali. L'uomo però è in grado di insegnare e di apprendere un linguaggio, la matematica, la civiltà. Parlare di apprendimento vuol dire spostarsi da un terreno biologico a uno culturale, però ci deve essere qualcosa che permetta all'uomo di socializzare in questo modo. Il bambino che viene posto davanti a un presentatore che espone male l'uso di uno strumento, userà lo strumento in modo goffo, perchè ripete i movimenti. Mentre la scimmia manipola l'oggetto e cerca un metodo per usarlo. Il bambino vede la volontà atta ad arrivare a un fine, mentre la scimmia no. L'uomo sa vedere le intenzioni dell'altro perchè ha uno strumento biologico in più, rispetto agli altri animali. L'umano è più capace di comprendere l'altro, in quanto altro. Questo permette l'accumulazione del sapere. Posso capire l'altro perchè posso immaginare me al suo posto (posso mettermi nei suoi panni).</p>
 <p>Accanto a questa capacità sembra affiancarsi un'altra capacità. I bambini che giocano, così come gli animali sono molto seri. I bambini, però, possono sperimentare mentalmente molte esperienze. Il bambino impara giocando a saggiare le proprie emozioni <i>off-line</i>, rispetto alla realtà.</p>
 <p>Un approccio di stampo naturalistico è senz'altro legittimo, ma noi cerchiamo il significato dell'immaginazione. La base biologica non esaurisce i significati della parola immaginazione.</p>
@@ -28,7 +19,8 @@
 <p>Se si visualizza un'immagine, la parola "ricordo" è sostituibile con la parola "so". In questo caso risponde alla domanda "che cosa?". Quindi questa è un'immagine. In alcuni casi il sapere è svincolato dalla data di acquisizione (19>18) in altre è vincolate (in 1a elementare ho imparato la data di nascita della Repubblica Italiana). Una stessa immagine mentale può essere ora un ricordo ora un sapere, in ragione all'appartenere a un contesto linguistico o un'altro. Il ricordo risponde a "quando?", mentre il sapere a "che cosa?". Un'immagine acquista il senso, sulla base del contesto.</p>
 <p>"Stiamo montando una mensola di una libreria, e qualcuno ci fa immaginare a cosa succederebbe se il tassello non tenesse". Immagina in questo caso vuol dire: formula un'ipotesi. La libreria terrà o cadrà? Questa forma è molto usata in geometria (sia immagini una retta...). In questo caso possiamo dire: "si pensi che". Le due forme sono esattamente uguali? No, perché in questi casi non sempre può essere gestita come un'ipotesi, ma come una "scenetta" (immagina che ti si chiuda la scala sotto). Qui ci troviamo davanti al problema che ci sono concetti diversi, non sostituibili da un'unica parola</p>
 <p>* frasi molto dubbie</p>
-<h1 id="l6">Lezione 6: 25/02/11</h1><div class="t1"><a href="#top">(top)</a></div>
+
+<?php t("6", "25/02/2011"); ?>
 <p>Wittgenstein: dopo che finiamo i numeri N, passiamo ad usare i numeri R. Questo fa cambiare la nostra definizione di numero? Siamo ancora sul paragone della corda. Usando la parola 'immaginazione', cosa intendiamo? Paragone di Fune, e di rete, che usiamo per catturare una certa molteplicità di fenomeni. La parola immaginazione non è l'unica, e a volte si sovrappone con altre. Cosa vuol dire quando avviamo una sovrapposizione? Cosa vuol dire quando possiamo sovrapporre le parole immaginazione e pensiero?</p>
 <p>La sovrapposizione deve essere presa molto sul serio. Secondo Yum è il modo per capire i significati della parola. Ci sono immagini memorative (ricordo) e immaginative. Se seguiamo Yum, perdiamo molte parti del ricordo. Il ricordo ha una sua grammatica che ne definisce il senso. Dato un ricordo possiamo sempre collegarlo ad altre esperienze, al momento in cui è successo. Cappuccetto Rosso non ha un posto nella storia perché non ha un quando. È opportuno procedere con un procedimento più metodico.</p>
 <p>Il ricordo ha una caratteristica peculiare rispetto alla percezione: non da gli oggetti in modo immediato. Il ricordo rende presente una percezione passata, mentre una percezione rende presente l'oggetto.</p>
@@ -99,5 +91,6 @@
 <p>Evidentemente come facciamo a vedere qual'è il rapporto con la percezione, in quelle situazioni in cui la percezione è messa da parte (gioco). In realtà la dipendenza dell'immaginazione dalla percezione esiste, anche se a livello più basso. Nel gioco plasmiamo la realtà in un modo nuovo.</p>
 <p>Lo stesso discorso è anche attuabile sui testi. L'Odissea ne è un esempio. Essa è una riflessione generale sull'idea del tempo. Il tempo lineare (Ulisse che vuole tornare). L'acqua: il tempo della dimenticanza, L'isola è il tempo lineare, il tempo del ricordo. Eolo dovrebbe appartenere alla terra, ma dovrebbe anche appartenere all'acqua. Infatti Eolo sta su un'isola galleggiante perché è entrambe le cose.</p>
 <p>"Sul ponte di cullava la rugiada dalla testa di gatta" (Breton). L'esperienza immaginativa è una quasi esperienza ed è un lavoro immaginativo con le cose</p>
-</body>
-</html>
+
+<?php t("7", "02/03/2011"); ?>
+<?php file::footer(); ?>

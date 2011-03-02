@@ -1,9 +1,9 @@
 <?php
 require "../class/include.php";
 
-file::head("Storia della Filosofia Morale - Appunti");
+file::head("Storia della Filosofia Morale - Totem e tabù");
 
-toc::show_toc("Storia_della_Filosofia_Morale/appunti.php");
+toc::show_toc("Storia_della_Filosofia_Morale/Totem_e_tabu.php");
 ?>
 
 <?php t("0", "Introduzione"); ?>

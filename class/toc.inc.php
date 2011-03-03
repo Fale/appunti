@@ -1,12 +1,11 @@
 <?php
 class toc
 {
-    static function show_toc( $f )
+    static function show_toc( $f = 0 )
     {
         $o = "<h1 id=\"top\">Indice</h1>\n";
         $o.= "<ol>\n";
-
-        $ls = file("../" . $f);
+        $ls = file($_SERVER[SCRIPT_FILENAME]);
         foreach( $ls as $ln => $l )
         {
             preg_match('/t(.?)\(\ ?"(.+)",\ ?"(.+)"\ ?\);/i', $l, $m);
@@ -46,17 +45,23 @@ class toc
     }
 }
 
-function tn( $i, $n, $t )
+class title
 {
-    echo "<h$i id=\"t$n\">Lezione $n: $t</h$i><div class=\"t$i\"><a href=\"#top\">(top)</a></div>";
+    static function tn( $i, $n, $t )
+    {
+        if ( preg_match('/(.+)\/appunti.php/i', $_SERVER[SCRIPT_FILENAME], $m) )
+            echo "<h$i id=\"t$n\">Lezione $n: $t</h$i><div class=\"t$i\"><a href=\"#top\">(top)</a></div>";
+        else
+            echo "<h$i id=\"t$n\">Capitolo $n: $t</h$i><div class=\"t$i\"><a href=\"#top\">(top)</a></div>";
+    }
 }
 
-function t( $n, $t ) { tn( "1", $n, $t ); }
-function t2( $n, $t ) { tn( "2", $n, $t ); }
-function t3( $n, $t ) { tn( "3", $n, $t ); }
-function t4( $n, $t ) { tn( "4", $n, $t ); }
-function t5( $n, $t ) { tn( "5", $n, $t ); }
-function t6( $n, $t ) { tn( "6", $n, $t ); }
-function t7( $n, $t ) { tn( "7  ", $n, $t ); }
+function t( $n, $t ) { title::tn( "1", $n, $t ); }
+function t2( $n, $t ) { title::tn( "2", $n, $t ); }
+function t3( $n, $t ) { title::tn( "3", $n, $t ); }
+function t4( $n, $t ) { title::tn( "4", $n, $t ); }
+function t5( $n, $t ) { title::tn( "5", $n, $t ); }
+function t6( $n, $t ) { title::tn( "6", $n, $t ); }
+function t7( $n, $t ) { title::tn( "7  ", $n, $t ); }
 
 ?>

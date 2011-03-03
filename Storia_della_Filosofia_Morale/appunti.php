@@ -3,7 +3,7 @@ require "../class/include.php";
 
 file::head("Storia della Filosofia Morale - Appunti");
 
-toc::show_toc("Storia_della_Filosofia_Morale/appunti.php");
+toc::show_toc();
 ?>
 
 <?php t("1", "14/02/2011"); ?>

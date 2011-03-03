@@ -118,4 +118,29 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <li>Se la Terra si muovesse di moto circolare, avrebbe come effetto la dispersione di tutte le parti della terra. (Tolomeo)
 </ul>
 </ul>
+
+<?php t( "8", "04/03/2011"); ?>
+<p>Nel 1400 si scoprono i primi codici. </p>
+<ul>
+<li>Fisica peculativa
+<ul>
+<li>Tutti i corpi gravi si portano verso il centro dell'universo. La terra è il più grave di tutti. La terra si porta al centro dell'universo. (Aristotele)
+<li>Ai moti semplici, si associano corpi semplici, uno per corpo. (Aristotele)
+<li>Se la Terra si muovesse di moto circolare, avrebbe come effetto la dispersione di tutte le parti della terra. (Tolomeo)
+<p>Tolomeo parte dal presupposto che la Terra dovrebbe partire da uno stot di queite per poi accellerare (avendo, quindi, una <i>"rotazione repentina"</i>)</p>
+</ul>
+<p>La confutazione viene formata come "Se qualcuno ritiene che la Terra, dirà senz'altro che il moto è naturale, non violento". Copernico si riferisce al Secondo Libro del De aelo dove Aristotele prova a confutare la teoria dei Pitagorici (inizio paragrafo 14).</p>
+<ul>
+<li>Premessa Maggiore: "Quando la Terra si muovesse di moto circolare, questo moto dovrebbe essere naturale ed eterno perché così conviene all'ordine del mondo"
+<li>Premessa minore: "Ma è impossibile che il moto corcolare della Terra sia naturale ed eterno" (perché le sue parti si muovono verso il centro di moto rettilineo, per la razio delle parti e del tutto)
+<li>Conclusione: "Dunque di necessità è per costrizione"
+</ul>
+<p>La dimostrazione si confuta da se, perchè i moti rettilinei non possono essere eterni e quindi non possono essere naturali. Questa conclusione porta al crollo di tutte e tre queste teorie, perchè la Terra non è più l'unico corpo grave, e che - assumendo lo stesso principio di Aristotele - anche tutte le sue parti devono avere lo stesso moto circolare. Di conseguenza dovremmo assumere che il moto rettilineo non esiste. Nela realtà ci sono soltanto due tipi di moto:</p>
+<ul>
+<li>Circolare uniforme ed eterno
+<li>Moto delle parti: moto circolare uniforme ed eterno, sommato ad un moto rettilineo
+</ul>
+<p>Poichè la terra si muove in modo circolare e poichè la terra è corruttibile, la quinta essenza non esiste. Inoltre ad un corpo terrestre corrisponde un movimento misto, quindi non è possibile che a un elemento semplice ci sia un solo moto.</p>
+</ul>
+
 <?php file::footer(); ?>

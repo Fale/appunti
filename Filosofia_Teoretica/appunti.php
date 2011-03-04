@@ -100,4 +100,54 @@ toc::show_toc("Filosofia_Teoretica/appunti.php");
 <p>Un gioco può essere partecipato, un'ipotesi no.</p>
 <p>Che differenza c'è tra la visualizzazione del cortile e una mappa del cortile? Quando lo visualizzo io mi rappresento questo cortile e me lo rappresento rispetto a un luogo in cui mi colloco. Nel caso delle mappe, non abbiamo qualcosa del genere. Il 'voi siete qui' serve ad individueare qual'è il posto che sulla mappa che rappresenta il nostro attuale posto. Questo è necessario per riproiettare la mappa sul mondo reale e viceversa. Qui accade una scissione dell'io pechè nel tessuto dell'immaginazione vi è un punto di riferimento che rappresenta all'io che appartiene al contesto dell'immaginazione. Quando ricordo qualcosa, ricordo qualcosa del passato, ma esso ha la triade temporale che non è riferita rispetto al punto della presenza, ma rispetto al luogo stesso: l'io temporale del ricordo. Quella differenza che abbiamo provato ad individuare nel caso della distione tra presente e passato, è una distinzione che possiamo articolare come : "non è una questione di caldo o freddo, ma di esperienze calde (esperienze, quasi-esperienze) o fredde (pensieri). Nel caso delle forme dell'immaginazione esse appatengono ad una forma di scissione tra l'io osservante e un'io immaginato all'interno dell'immaginazione stessa. C'è un io immaginato nell'immaginazione."</p>
 <p>Quando qualcuno dice immagina, devo costruire una quasi-esperienza che presuppone un mondo in cui ci sono credenze, desideri,  paure e pone l'operatore modificatore al di fuori del mondo a cui l'atto creativo. L'immaginazione sembra costruire un mondo, dispiegarlo, e porre un 'soltanto' poichè non ha pretesa reale</p>
+
+<?php t("9", "04/03/2011"); ?>
+<p>Frome calde, forme fredde. Forme mediate, immediate. Forme posizionali, non posizionali. L'immaginazione occupa un piano dell'esperienza. L'immaginazione è una forma calda, non posizionale, e immediata. Ricordo: mediata, calda.</p>
+<p>La filosofia non significa solo mettere in ordine in cassetti. Quali sono i cassetti dell'immaginazione?</p>
+<ul>
+<li>Fantasticherie
+<li>Immaginazione tecnologica
+<p>Immagina quello che non c'è, per poi modificare il reale</p>
+<li>Gioco
+<li>Finzione letteraria
+<li>Figuratività
+</ul>
+<p>Il primo modo di ordinarle: l'immaginazione da dove sorge? Dalla vita. Fa parte della nostra vita. È un momento della nostra esstenza, del nostro stare in questo mondo. Quale passo d'immaginazione compie rispetto a questo nostro mondo.</p>
+<ul>
+<li>Spinge l'immaginazione a proporre alternative rispetto alla realtà
+<p>Molto utile per comprendere la realtà stessa. Immaginazionee è la capacità di porre il reale sullo sfondo di un possibile. Cosa c'è alla base di una scelta? Cosa vuol dire comprendere un divieto? Immaginare l'altro. Disporre la nostra esperienza da ciò che è asserito dalla regola, e l'opposto. Il rimorso è un'esempio. La realtà viene messa su uno sfondo mobile.</p>
+<p>La finzione del possibile è fortemente intrisa del mondo. Pensiamo la possibilità come possibilità di questo mondo. È una possibile alternativa a questo mondo, in questo mondo. Immaginamo realtà contestualizzate nel mondo.</p>
+<ul>
+<li>Immaginazione centestuale
+<ul>
+<li>Immaginazione tecnologica
+<li>Modificazioni del reale
+</ul>
+<p>Immaginazione con vincoli</p>
+<li>Immaginazione assoluta
+<p>Immaginazione senza vincoli</p>
+<ul>
+<li>Figuratività
+<li>Finzione ludica
+<p>Immaginazione fantastica non può avere la possibilità, o la può avere ma non posto come un possibile, ma come uno scenario che i sovrappone alla nostra realtà, senza negarla.</p>
+</ul>
+</ul>
+<li>Immaginazione centestuale
+<ul>
+<li>
+<ul>
+<li>
+<li>
+</ul>
+<li>Immaginazione assoluta
+<ul>
+<li>Fantasticheria
+<p>È una fantasia ad occhi aperti. È qualcosa che non si confonde con la realtà. Anche se il sogno fosse davvero la risposta ai nostrivoleri. I sogni accadono. Il corso degli eventi del sogno è in terza persona. Le fantasticherie hanno un forte nesso con la dimensione della soggettività. Il contenuto della fantasticheria paarla in nome di qualche nesso con la soggettività come unità di bisogni, paure. Riconosciamo la nostra natura, nelle fantasticheria. Hugo suggerisce uno svegliarsi dell'io nella fantisticheria, non nell'addormentarsi. Le fantasticherie sono spesse connesse con il desiderio. Sicuramente le fantasticherie non soddisfano il desiderio. L'immaginazione è un mezzo, non un fine. Nella fantasticheria è una manifestazoni di desideri appagati. Nella fantasticheria creiamo un reale alternativo.</p>
+<p>Il tempo è un 'termometro' dell'immaginazione. Il tempo è la struttura dell'ordinamento del mondo. L'immaginazione ha una sua temporalità. Il desiderio è riivolto al futuro (ora desidero per domani). La dimensione della fantasticheria è presente, ma un adesso che non è l'ora reale, ma ha un rapporto temporlae solo con il tempo dell'immaginazione. La fantasticheria propone un'orizzonte altro rispetto a qeullo del reale, ed è costituito per opposizione a quello reale. L'utopia è qualcosa che è non-luogo e buon-luogo. (vedi Charlie Chapline - Modern Time, ~50'). Anche se le fantasticherie occupano una quantità di tempo rilevante nella fantasia di tuttii giorni, resta vero per essenza che è la fantasticheria che spunta dalla realtà, non l'incontrario.</p>
+<p>Il ritratto ha sempre un collegamento con il mondo. Il ritratto è un eco della persona. Il ritratto può diventare una mappa (ci, patente,...) per riconoscere quacuno. Se parla del mondo, il ritratto può essere vero o falso (buono o cattivo). È cattivo quando non ci permette di riconoscere una persona. I ritratti sono sempre, davvero, questo? Abbiamo rinunciato ad intendere l'immagine pittorica come copia della realtà, ma come oggetto <i>in sè</i>.</p>
+<li>Finzioni narrative
+<p>Ha na consistenza più ricca delle fantasticherie. Cos'è un racconto? Un racconto è una narrazione assoluta (libera). Le parole possono descrivere eventi 'vero simili'. Una narrazione così ci obbliga a usare le parole 'a vuoto', perchè possono sganciarsi da un riferimento immediato ma possono manterene nel loro significato una serie di sensi che permettono di ricollegarle con un'insieme di eventi e una teorica verificazione. Il racconto letterario ha sciolto la sensatezza di una verificazione possibile. Questo perchè ci poniamo in una complessa opera di decontestalizzazione. Raccontando un fatto possiamo dare una collocazione spazio/temporale, mentre per una finzione questo non vale. Questo è anche vero se ci sono racconti che sembrano ambientati in un posto e in un tempo determinate, perchè non è ne parte del <u>nostro</u> passato ne del <u>nostro</u> futuro. In questi casi il tempo o lo spazio sono 'aggettivi'. Questo è anche vero per i personaggi di un libro. Non sono oggetti, ma ruoli. Gli oggetti sono al di là della descrizione che diamo e dell'esperienza che abbiamo. I personaggi di un racconto si esauriscono nella narrazione che se ne fa. I racconti contengono completamente l'oggetto della loro narrazione che esiste solo all'interno della narrazione stessa. Le narrazioni letterare sono assolute, una narrazione 'senza fuori'.</p>
+</ul>
+</ul>
+</ul>
 <?php file::footer(); ?>

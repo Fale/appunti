@@ -119,7 +119,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 </ul>
 </ul>
 
-<?php t( "8", "04/03/2011"); ?>
+<?php t( "8", "03/03/2011"); ?>
 <p>Nel 1400 si scoprono i primi codici. </p>
 <ul>
 <li>Fisica peculativa
@@ -143,4 +143,21 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Poichè la terra si muove in modo circolare e poichè la terra è corruttibile, la quinta essenza non esiste. Inoltre ad un corpo terrestre corrisponde un movimento misto, quindi non è possibile che a un elemento semplice ci sia un solo moto.</p>
 </ul>
 
+<?php t( "9", "04/03/2011"); ?>
+<p>È molto importante la divisione compiuta da Copernico tra moti e elementi. Da un moto non è più derivacile l'elemento, e dall'elemento non è più derivabile il moto.</p>
+<p>(p348) <i>Ottima disposizione</i> segno della Filosofia Platonica. Aristotele si basa solo su cause fisiche, mentre Platone aveva osservato che nel mondo è tutto organizzato in modo meccanico. Il Dio si occupa di mescolare gli elementi tra loro, perché questo determina il divenire. Simplicio, nel commento alla fisica di Aristotele diceva che tutte le cose fatte dalla natura conservano la loro <i>ottima dispposizione</i>. Questa locuzione è tipica della dottrina di Simplicio. Simplicio confuta l'idea di Aristotele per la quale se la Terra fosse spostata nell'orbita della Luna, parti della Terra tornerebbero nella posizione attuale della Terra. Platone afferma che non esiste un basso e un alto e che non esistono i luoghi naturrali. Simplicio aggiunge al commento della fisica di Aristotele.</p>
+<p>Le cose che sono rimaste sono:</p>
+<ul>
+<li>Siamo sulla terra
+<li>Gli oggetti sulla terra sono gravi
+<li>La Terra è sferica
+<li>La sfericità della Terra è generata dalla gravità
+<li>Tutto ciò che è fatto dalla natura è fatto in modo tale per cui sia conservata la posizione
+</ul>
+<p>Il moto circolare uniforme conserva l'ordine allo stesso all'interno del suo sistema.</p>
+<p>Quiete e moto circolare uniforme, sono due <b>stati</b> della materia</p>
+<p>Tolomeo concepisce l'etere in modo un po'diverso rispettto ad Arristotele. Secondo Tolomeo la Terra sta ferma perchè mantenuta ferma per pressione dall'etere. Tuttavia anche in Tolomeo, tutto il sistema ruota. Tolomeo accetta che l'astronomia metta la terra in movineto, ma per ragioni fisiche non accetta la rotazione della terra.</p>
+<p>L'obbiezione logica che Copernico fa a Tolomeo è: "se tu dici che dal punto di vista astronomico, non è importante che la Terra giri, dovresti dire che il moto della terra è naturale. Se tu, però, prendi in considerazione effetti violenti, vuo ldire che non stai considerando la naturalità del moto astronomico della Terra, ma stai considerando un effetto violento. Nello stesso modo, dal punto di vista del cielo, lo metti in moto circolare uniforme, dovrebbe esserci una motivazione meccanica.Se applichi la stessa ragione meccanica della terra anche per il cielo, ci sarebbero effetti disastrosi. O tu in entrambi i casi parli di moti naturali o se prendi in considerazione moti violenti, la maggiore velociità dilaterebbe la materia celeste e viceversa."</p>
+<p>Gli Stoici sostenevano che ogni tot tempo c'era una conflagrazione. Pensavano, perciò che al di là del mondo ci fosse uno spazio infinito per raccogliere la conflagrazione universale.</p>
+<p>Il moto della Terra, da un punto di vista Socratico, è l'ipotesi più forte perchè meno confutabile. Aristotele ci dice che fa parte della Terra anche l'aria che è compresa tra le cime più alte.</p>
 <?php file::footer(); ?>

@@ -12,6 +12,19 @@ class file
         $o.= "    <style type=\"text/css\" media=\"screen, projection\">\n";
         $o.= "        @import url(\"../style.css\");\n";
         $o.= "    </style>\n";
+        $o.= "<script type=\"text/javascript\">\n";
+        $o.= "\n";
+        $o.= "  var _gaq = _gaq || [];\n";
+        $o.= "  _gaq.push(['_setAccount', 'UA-147443-14']);\n";
+        $o.= "  _gaq.push(['_trackPageview']);\n";
+        $o.= "\n";
+        $o.= "  (function() {\n";
+        $o.= "    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;\n";
+        $o.= "    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';\n";
+        $o.= "    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);\n";
+        $o.= "  })();\n";
+        $o.= "\n";
+        $o.= "</script>\n";
         $o.= "</head>\n";
         $o.= "<body>\n";
 

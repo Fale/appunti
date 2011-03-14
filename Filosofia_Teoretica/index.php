@@ -1,5 +1,5 @@
 <?php
-require "class/include.php";
+require "../class/include.php";
 
 file::head("Fale's Univesity Home");
 ?>

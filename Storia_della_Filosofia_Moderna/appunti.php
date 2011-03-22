@@ -184,4 +184,30 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 
 <?php t("12", "18/03/2011"); ?>
 <p>Tolosani il primo che si occupa, su indiicazioni di Spina, del testo copernicano 3~4 anni dopo la pubblicazione. Tolosani usa la bibbia come se fosse un manuale di fisica e astronomia.</p>
+
+<?php t("13", "22/03/2011"); ?>
+<p>Tolosani muore prima di pubblicare, ma successivamente altri due suoi riprendono i suoi testi per denunciare Galileo. Aristotele lega sempre i moti alle sostanze, come dividono la sostanza di queste sfere? Perchè ci sono parti mobili e parti fisse? Sulla base della luce e del corpo diafano. Il primo mobile è il più perfetto perchè si muove di un'unico moto. Sostanza duplice: sostanza diafana e trasparenti assieme.</p>
+<ul>
+    <li>Terzo cielo (biblico)
+    <ul>
+        <li>Decielo: Empirio: immobile, fonte di luce
+    </ul>
+    <li>Secondo cielo (biblico)
+    <ul>
+        <li>Nona sfera (Aristotele): Cristallino: an-astro, movimento in 24h (solo diafano)
+    </ul>
+    <li>Primo cielo (biblico)
+    <ul>
+        <li>Ottava sfera (): con sfere fisse, movimento in 36'000 anni (diafano e luminoso)
+        <li>Settima sfera (Aristotele): Saturno (diafano e luminoso)
+        <li>Sesta sfera (Aristotele): Giove (diafano e luminoso)
+        <li>Quinta sfera (Aristotele): Marte (diafano e luminoso)
+        <li>Quarta sfera (Aristotele): Sole (diafano e luminoso)
+        <li>Terza sfera (Aristotele): Venere (diafano e luminoso)
+        <li>Seconda sfera (Aristotele): Mercurio (diafano e luminoso)
+        <li>Prima sfera (Aristotele): Luna (diafano e luminoso)
+    </ul>
+    <li>Terra (Aristotele): immobile
+</ul>
+<p>A differenza di Copernico, Tolosani usa tesi bibliche (considerate giuste per ipotesi) contro le tesi Copernicane al posto dell'<i>elenchos Socratico</i>.</p>
 <?php file::footer(); ?>

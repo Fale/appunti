@@ -190,7 +190,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <ul>
     <li>Terzo cielo (biblico)
     <ul>
-        <li>Decielo: Empirio: immobile, fonte di luce
+        <li>Decielo (Astronomi Medievali): Empirio: immobile, fonte di luce
     </ul>
     <li>Secondo cielo (biblico)
     <ul>
@@ -198,7 +198,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
     </ul>
     <li>Primo cielo (biblico)
     <ul>
-        <li>Ottava sfera (): con sfere fisse, movimento in 36'000 anni (diafano e luminoso)
+        <li>Ottava sfera (Astronomi Medievali): con sfere fisse, movimento in 36'000 anni (diafano e luminoso)
         <li>Settima sfera (Aristotele): Saturno (diafano e luminoso)
         <li>Sesta sfera (Aristotele): Giove (diafano e luminoso)
         <li>Quinta sfera (Aristotele): Marte (diafano e luminoso)
@@ -210,4 +210,12 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
     <li>Terra (Aristotele): immobile
 </ul>
 <p>A differenza di Copernico, Tolosani usa tesi bibliche (considerate giuste per ipotesi) contro le tesi Copernicane al posto dell'<i>elenchos Socratico</i>.</p>
+
+<?php t("14", "24/03/2011"); ?>
+<?php t("14.1", "Lettere Copernicane"); ?>
+<?php t("14.1.1", "21/12/1613 - Lettera a Benedetto Castelli"); ?>
+<p>Nel Maggio 1597 Galileo comincia a dichiararsi copernicano in lettere private a Keplero e al suo maestro. Nel Marzo 1610 pubblica il <i>Siderio Nuncius</i>. Galileo costruisce il primo telescopio e lo punta al cielo. In questo libro non espone tutte le sue scoperte, ma annuncia soltando la scoperta dei pianeti Mediceei intorno a Giove, la conformazione lunare e osserva la via Lattea. Solo successivamente scoprirà le fasi di Venere dimostrando così che Venere gira intorno al Sole. Successivamente scopre anche le macchie solari. Questo non ha molto valore astronomico, ma ha validità per la teoria fisica perchè questo può avvalorare una configurazione terrosa del Sole. Quelle macchie non possono essere interpretati come corpuscoli tra la Terra e il Sole. Scrive le 3 lettere sulle macchie solari (tra il Maggio e il Dicembre 1612) poi pubblicate nel Marzo 1613. In queste lettere Galileo ventila la possibilità della verità delle teorie Copernicane e per la prima volta espone in modo chiaro la teoria fisica che è consona al moto dei corpi celeste e fa un accenno all'impossibilità di leggere in modo letterale un passo di Josuè. Questo era pericoloso perchè Ludovico delle Colombe e Francesco Sizzi avevano cominciato ad usare la Bibbia come prova della falsità del sistema Copernicano (1610~1611).</p>
+<p>Castelli è un monaco Benedettino, amico e alievo di Galilei. Castelli viene invitato a insegnare nell'università di Pisa. Viene invitato dal Duca (Cosimo II) e dalla moglie (Caterina) e la Granduchessa di Toscana (molto devota). Cosimo Boscaglia tira fuori l'idea che la teoria Copernicana è contro le  Sacre Scritture. Galileo non è presente ma viene informato da Castelli e Niccolò Arrighetti. Tutti gli anti-copernicani si riunivano nella casa di Alessandro Arzamedici (Arcivescovo) per sconfiggere la teoria. Niccolò Lorini e Caccini erano due forti contrati della teoria Copernicana e il primo parlò anche contro Galileo da un pulpito.</p>
+<p>L'intelligenza divina si esplica nel Mondo, quindi conoscendo il mondo possiamo conoscere alcuni modi attraverso i quali Dio ha costituito il Mondo. Dio è verità quindi è chiao che sia le Sacre Scrittura sia la natura abbiano un contenuto ci verità. La Bibbia si preoccupa di indicare a tutti gli uomini come salvarsi. Essendo un messaggio universale ed essendo gli uomini non tutti uguali, lo Spirito Santo adegua il messaggio anche ai meno colti. C'è un messaggio a liveello letterale e un messaggio più recondito che può essere colto solo dalle persone che hanno cultura. Il linguaggio della scrittura è adatto a tutti, mentre la natura è l'esecutrice degli ordini divini, ossia lo strumento immutabile che Dio ha utilizzato affinchè essa rispettasse gli ordini dategli alla creazione. per Galilei la natura ha un linguaggio matematico, ed è interpretabile solo da colui che studia, perchè la natura non si preoccupa che il suo messaggio viene letto da tutti. Poichè non si preoccupa essa esegue gli ordini impartiteli da Dio e il suo linguaggio è più raffinato. Ci sono anche delle facoltà diverse dell'uomo che ci permettono di afferrare questi due linguaggi: la credenza alle rivelazioni per le scritture, l'esperienza dei sensi e le dimostrazioni matematiche per la natura. Poichè Dio deve fare arrivare il messaggio escatologico (post-mortem) agli uomini, si esprime in modo letterale per tuutti, ma per i più saggi questo non 'è abbastanza'. Quando gli scienziati arrivano a conclusioni provate dalle prove e da ragionamenti concludenti e ci sono dei contrasti con la Sacra Scrittura, è compito dei Teologi reinterpretare la Sacra Scrittura sulla base di qullo appena trovato. Questo vale anche al contrario. Per preservare la credibilità del Testo Sacro, sarebbe bene che i due ambiti non si mescolino mai, poichè la conoscenza umana è progressiva.</p>
+<p>Nella parte finale della lettera, Galileo interpreta il passo di Josue in senso Copernicano.</p>
 <?php file::footer(); ?>

@@ -354,8 +354,47 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <?php t3("16.1.2", "Capitolo 6"); ?>
 <p></p>Il capo può essere sostituito da un'indea astratta. Questo è possibile perchè la persona è già una sostituzione (del padre). L'idea può anche essere formulata in negativo (odio per), così come anche un capo può essere negativo (odio per qualcuno, cioè il capo). Questo è possibile perchè l'ambivalenza verso il padre può diventare in determinate circostanza che la corrente negativa è sempre presente.</p>
 <p>Il contatto con chi è altro da noi ci infastidisce. Il rispetto delle distanze è uno delle regole fondamentali del vivere civile. La grande formalità e il mantenimento delle distanze sono più caratteristiche nelle società più primitive della nostra rispetto a oggi. Il conttatto fisico al 'primo minuto' è culturale e non naturale, secondo Freud. In una massa, la paura del contatto non esiste e ci sono forme di contatto fisico imposte (darsi la mano) che servono a fortificare il gruppo.</p>
-<?php t3("16.1.2", "Capitolo 7"); ?>
+<?php t3("16.1.3", "Capitolo 7"); ?>
 <p>L'identificazione sembra venire prima delle pulsioni lidibiche. L'identificazione non è libidica perchè non si punta ad avere un oggetto, ma ad esserlo. Il bambino vorrebbe essere come suo padre (eroe). Da questo si capisce che la vita di ogni bambino è in salita. Non si vuole essere imitatori, ma si vuole che l'altro diventi il proprio fan. Questo riscatena nel grande la voglia di riabbassare il piccolo nella sua situazione. I ritidi iniziazione sono spesso violenti perchè tutta la società non può che considerarlo con gelosia ed enorme paura.</p>
 <p>Contemporanemente a tale identificazione, il bambino comincia ad avere un'investimento oggettuale per la madre (complesso edipico). Abbiamo una libido verso la madre e l'intenzione di prendere il padre come modello.</p>
-<p></p>
+
+<?php t("17", "28/03/2011"); ?>
+<?php t2("17.1", "1921 - Psicologia delle Masse e analisi dell'Io"); ?>
+<?php t3("17.1.1", "Capitolo 7"); ?>
+<p>Dal momento che la vita della massa non è fondata su pulsioni sessuali dirette, deve essere fondata su pulsioni sessulai indirette. Esiste un'altra forza primaria, ancor più originale di quella sessuale? Questo capitolo iintroduce l'identificazione ma in modo che non mini la costruzione edipica.</p>
+<p>Il bambino piccolo vuole sostituire il padre. La differenza tra identificarsi ed amare è la differenza tra il voler essere qualcuno o voler avere qualcuno. Non è un sentimento innoquo. Il padre gli limiterà le possibilità imponendogli dei limiti. Esiste qualcosa di primario: l'identificazione. Se io, bambino molto piccolo, desidero divenire il padre, allora il fatto di desiderare la madre (che è successivo a questa prima identificazione) potrebbe essere non il frutto di una pulsione sessuale, ma poichè il padre ha un rapporto con la madre, anche io lo vorrò avere. (p101)<b>Il piccolo nota che il padre gli sbbarra la via che lo conduce alla madre...</b>.</p>
+<p>Nel caso dell'investimento oggettuale, abbiamo la teoria Freudiana classica (pansessualista). (p101). L'identificazione è comuque ambivalente sin dall'inizio. Sin dall'inizio (prima che il padre cominci a ostacolare il figlio) l'identificazione si comporta come la prima fase dell'organizzazione libidica (orale), esiste già una comonnente distruttiva nell'amore del padre.</p>
+<p>Per evitare di cadere in una cconcezione relazionale padre-figio, Freud deve introdurre un'ambivalenza originaria.</p>
+<p>Io divento, fratello,compare diqualcuno all'interno di una massa perchè trovo analogoo il mio bisogno per un capo (sostituto paterno) con l'analogo bisogno degli altri. Noi cogliamo i sentimenti altrui sulla base dei nostri sentimenti. La mancanza di empatia è una mancanza di pulsioni all'interno del soggetto. Si può anche avere una tale presenza al proprio interno di stimoli, da rendere l'identificazione negli altri continua. Freud prende questo caso per spiegare la genesi dell'omosessualità. Questa sarebbe generata da un mancato scambio della madre con un'altro oggetto omosessuale e dall'identificazione nella madre.</p>
+<p>Quando una persona perde un oggetto amato, inizia ad auto-svalutarsi. L'autostima crolla. Il senso di insufficienza sono sostanzialmente contro la persona che abbiamo perso che introiettiamo. Così appaiono due io diversi, uno che accusa, l'altro accusato. L'accusatore è il super-io. Se il bambino vede turbato dalle richieste seterne, il bambino crea all'interno di se un ideale dell'io, cioè un io incriticabile perchè in linea con le richieste della società. Questo è il super-Io.</p>
+<?php t3("17.1.2", "Capitolo 8"); ?>
+<p>Parallelo tra 3 condizioni umanne</p>
+<ul>
+  <li>condizione dell'individuo all'interno di una massa
+  <li>innmoramento
+  <li>ipnosi
+</ul>
+<p>Nell'innamoramento estremo, la sopravvalutazione dell'oggetto sessuale le esigenze dell'io possono diventare talmente insignificanti rispetto all'oggetto amato, l'oggetto finisce per dominare l'io. L'oggetto sessuale è stato sostituito al super-io. Siamo in una situazione simile all'ipnosi. L'individuo si fa schiavo dell'oggetto amato, o dell'ipnotizzatore.</p>
+<p>La relazione ipnotica è una relazione innamorata che prescinde dal rapporto sessuale. Nell'innamoramento, il rapporto sessuale viene messo come sottofondo, ma non completamente annullato. Nel caso della massa, è la stessa cosa dell'ipnosi, ma cambia il numero. L'ipnosi si può immaginare come una massa di due persone.</p>
+<ul>
+  <li>Ipnosi: dipendenza totale, senza soddisfacimento sessuale
+  <li>Innamoramento: dipendenza totale, con soddisfacimento sessuale 'promesso'
+  <li>Massa: dipendenza sociale, senza soddisfacimento sessuale
+</ul>
+<p>Se la pulsione, nell'innamoramento, si scarica, può capitare che l'innamoramento si sfiorisca. Per durare deve essere aggiunto una pulsione 'tenera' sin dall'inizio. Nella massa, invece questo non è possibile perchè non ci sono pulsioni sessuali. L'ipnosi prevede una forma gravemente asimmetrica, è una situazione che non può resistere molto a lungo.</p>
+<p>Una massa primaria è un'insieme di individui che hanno assunto a loro ideale di Io lo stesso oggtto, e che pertanto si sono identificati l'uno nell'altro.</p>
+<?php t3("17.1.3", "Capitolo 8"); ?>
+<p>Freud non concorda nell'importanza della pulsione gregaria. Freud vede la pulsione gregaria solo come terzo passaggio.</p>
+<ol>
+  <li>pulsioni individuali
+  <li>pulsioni verso un oggetto
+  <li>pulsioni verso un'altra persona che ha le stesse pulsioni verso lo stesso oggetto
+</ol>
+<p>Freud supporta questo sostenendo che il bambino non vuole qualcuno vicino, ma vuole qualcuno verso la quale prova affetto. Quando vede un'estranio, vuole anccora di più la compagnia della madre. Per Freud la pulsione gregaria è originaria dalla gelosia, ma lo tramuta nel'esigenza di avere un trattamento uguale per tutti per paura che i genitori lo abbandonino. Analogia con Re Salomone. L'uomo è un animale chevive in orda, un gruppo comandato da un cappo supremo. La libertà assoluta di cui gode il capo è frutto di un'illusione che i sudditi hanno costruito al loro interno.</p>
+<?php t3("17.1.4", "Capitolo 11"); ?>
+<p>Il capo deve possedere le caratteristiche del padre:</p>
+<ul>
+<li>il capo deve essere uguale alle persone della massa
+<li>maggior forza e maggior libertà libidica
+</ul>
 <?php file::footer(); ?>

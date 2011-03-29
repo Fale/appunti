@@ -238,4 +238,16 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Se si ammette che la Bibbia deve essere letta in maniera letterale, il sistema Copernicano è più vicino alla Bibbia che non il sistema Tolemaico.</p>
 <p>La prova più sicura del Sistema Copernicano sono le fasi di Venere.</p>
 <p>Moto Est-Ovest del primo mobile, Moto Ovest-Est del sole.</p>
+
+<?php t("16", "29/03/2011"); ?>
+<?php t2("16.1", "Lettere Copernicane"); ?>
+<?php t3("16.1.1", "21/12/1613 - Lettera a Benedetto Castelli"); ?>
+<p>La rivelazione e la scienza sono due ambiti distinti, ma due verità non possono contrariarsi, quindi quando la scenza interpreta in modo sicuro, i saggi devono interpretare la Bibbia in modo che le due verità sia consonanti. Quando solo vi è un grado di probabilità che la teoria scientifica sia corretta, sarebbe meglio che la Sacra Scrittura non venga interpretata per combaciare con le scienze naturali.</p>
+<p>Galilei non si dichiara Copernicano perchè il testo Copernicano è molto difficile, e quindi lui sta svolgendo un'opera di esegesi del testo Copernicano in modo che siano intelegibili ai più. Inoltre la credenza nella verità del sistema aristotelico, che si faceva veramente fatica che la Terra si muovesse o che l'astronomia potesse dirimeere una questione così importante come la disposizione dell'universo.</p>
+<?php t3("16.1.2", "23/03/1615 - Lettera a Piero Dini"); ?>
+<p>Il 20 Dicembre 1614, Tommaso Caccini (frate Domenicano nello stesso convento di San Marco a Firenze, dove Tolosani ha lasciato i suoi manoscritti) nella quarta Domenica di Avvento sferra un attacco contro i geocentristi, galeisti e i matematici dal pulpito della chiesa di Santa Maria Novella. Galileo sa anche dell'intenzione di Caccini di denunciare lui e la teoria copernicana al Santo Uffizio.</p>
+<p>Il 7 Febbraio del 1615 Lorini fa una denuncia contro Galilei a Sfondrati (Santo Uffizio).</p>
+<p>Il 16 Febbraio Galilei scrive a Piero Dini.</p>
+<p>Il 7 Marzo 1615 Bellarmino risponde a Galileo dicendo che la teoria Copernicana è solo una teoria matematica.</p>
+<p>Il 20 Marzo 1615 Caccini denuncia Galilei al Santo Uffizio.</p>
 <?php file::footer(); ?>

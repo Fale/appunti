@@ -250,4 +250,33 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Il 16 Febbraio Galilei scrive a Piero Dini.</p>
 <p>Il 7 Marzo 1615 Bellarmino risponde a Galileo dicendo che la teoria Copernicana è solo una teoria matematica.</p>
 <p>Il 20 Marzo 1615 Caccini denuncia Galilei al Santo Uffizio.</p>
+
+<?php t("18", "01/04/2011"); ?>
+<?php t2("18.1", "Lettere Copernicane"); ?>
+<?php t3("18.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>L'opera di Foscarini viene bandita per ue motivi:</p>
+<ul>
+  <li>Foscarini cerca di difendere il sistema copernicano come verità, dando una base fisica alla teoria copernicana
+  <li>Foscarini interpreta la Bibbia in modo non letterario
+</ul>
+<p>Secondo Galilei e Foscarini, la Sacra Bibbia non può essere letta in maniera letterale.</p>
+<ul>
+  <li>Foscarini, come teologo, sembra inclinare verso l'idea che la ragione umana non possa mai attingere alla certezza della verità sia nelle questioni astronomiche che fisiche.
+  <p>Per Galilei la natura è conoscibile attraverso analisi matematica, mentre per Foscarini questo è possibile solo dopo la morte, unendosi a Dio.</p>
+  <li>Foscarini dubita della validità del siste copernicano, mentre Galilei no.
+  <li>Per Galilei la Sacra Scrittura non si può sempre essere letta in maniera letterale. Foscarini è titubante su questo.
+  <p>Per Foscarini, la conoscenza da un punto di vista umano, dobbiamo scegliere le teorie che sembrano più probabili. Finchè un giorno, forse, si trovi la verità, è necessario interpretare la Sacra Scrittura secondo sensi non-letterali, così soloro che seguono la via del 'più probabile', la Sacra Scrittura non vengano fermati dalla Bibbia. Galileo ritiene che in caso di incertezza la Bibbia non dovrebbe essere interpretata.</p>
+  <li>Per Galileo la natura è espressione di Dio tanto quanto la rivelazione, mentre per Foscarini la Scrittura è più espressione divina rispetto alla natura.
+  <p>Galileo pensa che Dio ha scritto due libri (Libro della Bibbia, Libro della Natura), perchè la prima è scritta per tutti, ma bisogna fidarsi. Il Libro della Natura, invece, è intellegibile solo per chi padrona il ragionamento, l'intelletto e il discorso. Solo le dimostrazioni matematiche non sono passibili di dimostrazione.</p>
+</ul>
+<p>Foscarini riguarda la Bibbia e la Teologia canonica e suddivide i passi 'problematici' in 6 categorie</p>
+<ul>
+  <li>Moto della Terra
+  <li>Immobilità del Sole
+  <li>Discesa e ascesa di Cristo
+  <li>Inferno (dogmi)
+  <li>Contrapposizione tra Cielo e Terra
+  <li>I teologi sostengono (dogmi) che dopo il giudizio universale, il Sole si fermerà ad Oriente
+</ul>
+<p>Poichè neanche con il Sistema Aristotelico, non è possibile prendere i passi così come sono, Foscarini usa dei passaggi teologici e fisici per dimostrare che la teoria copernicana non è contro le Sacre Scritture, e che il sistema di Copernico è molto più funzionale per la Bibbia. Con questo, diventa possibile interpretare il passo del candelabro a 7 bracci, che prima non era interpretabile.</p>
 <?php file::footer(); ?>

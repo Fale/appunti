@@ -430,4 +430,28 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 </ul>
 <p>I primi ad essere riusciti a farconvergere tutto questo in un'unica figura sono gli ebrei. Poichè Dio era uno solo, questo poteva far ricominciare i rapporti speciali present tra padre e figlio.</p>
 <p>Il bambino ama la madre è una scelta per appoggio. La madre soddisfa alcuni bisogni, io appoggiandomi su questo, costruisco un legame affettivo. La scielta del padre come Dio avviene per appoggio, perchè questa scielta avviene nella fase in cui il bambino ha bisogno di un'ancora di salvezza.</p>
+
+<?php t("19", "04/04/2011"); ?>
+<p>L'esame non è sulle conoscenze, ma è pensato come se fosse una lezione, cioè saper riempire la conversazione. Bisogna saper dare l'impressione di poter parlare per 20' di qualsiasi argomento e di saperla ritrovare in un <i>tempo ragionevole</i>. Il secondo appello è il 9/6. Portarsi i libri.</p>
+<?php t2("19.1", "1927 - L'avvenire di un'illusione"); ?>
+<?php t3("19.1.1", "Capitolo 4"); ?>
+<p>Tra la spiegazione di Totem e Tabù e questa, della nascita della religione che parla di una debolezza umana. In Totem e Tabù c'è l'idea dell'obbedienza retroattiva. Come questo si concilia con la visione che il bambino ha del padre quasi come fosse un super- uomo. Da questo, in ogni religione c'è un doppio delirio: l'antropocentismo,riversiamo su Dio il timore che la sua ira si scateni verso di noi. L'ambivalenza verso il pradre, diventa ambivalenza verso il culto. Il Dio ebraico è uno, e si preseterà come ambivalente. In questo libro, l'ambivalenza per il padre è per appoggio e quello che è avvenuto nell'orda primitiva è conseguenza di questo. Per appoggio = quando qualcuno soddisfa qualche nostro bisogno, è più facle che si crei un rapporto. Questo è banale ma elimina la biologia dall'emotività. Non è una gratitudine che è freddo, razionale.</p>
+<p>Le religioni spiegano le loro credenze in questi tre modi:</p>
+<ul>
+  <li>Già i nostri antenati ci credevano
+  <li>Prove antichissime
+  <li>Non è lecito discutere la tesi
+</ul>
+<p>Secondo la comparatistica religiosa, le religioni hanno così tante analogie che si può pensare che hanno tutte le stesse ragioni e fonti di quelle antiche. Freud pensa una cosa simile perchè pensa che le religioni siano tutte risposte alla stessa domanda. Il modo più forte che una religione si difende, è porreanatemi. Ma se arriva unoche dimostra che non succedeassolutamente nulla, la credibilità viene messa in discussione. Chi ha cominciato a distrurre le altre religioni? Il cristianesimo. Non puoi togliere alle masse le loro illusioni, come puoi buttar giù le religioni, nel momento in cui queste sono indispensabili? Freud, come Spinoza dice che i top non hanno bisogno di queste illusioni, mentre le masse si.  Freud aggiunge che poichè è vero che le persone non fatto per paura delle conseguenze, quindi quando una religione cade anche le regole morali cadono. Ci sono due opzioni:</p>
+<ul>
+  <li>Lasciare la gente nella loro ignoranza
+  <li>Educare il popolo tramite la diffusione dello spirito scientifico
+</ul>
+<p>L'uomo religioso si distingue dal non religioso, come un nevrotico da uno 'normale'. L'uomo non religioso sa accettare l'inevitabile.</p>
+<p>La civiltà è imposta delle regole morali e in più il fatto di compiere dei reati mette in tentazione gli altri umani sarebbero invogliati a rompere la legge. All'inizio le regole della convivenza civile erano divine e non sarebbe potuto succedere diversamente. Da questo Freud concludeche la religione è un'illusione, non un'errore. Dietro un'illusione c'è un desisderio. Difronte a un errore posso anche accettare di aver sbagliato, davanti ad un'illusione disillusa devo trovare un'alternativa a questa. (p182)</p>
+<p>La religione era necessaria per fare dei passi avanti nella costituzione della civiltà.</p>
+<p>La religione assomiglia a una nevrosi, quindi non la sicura dicendo <i>Dio non esiste</i>. Al massimo, in questo modo, si può far sostituire un oggetto nevrotico con un'altro. Per curare le nevrosi,ci deve essere un transfert tra paziente e terapista. Tutta la critica alla relgione di Freud non ha nessuna valenza per chi la ascolta.</p>
+<p>Il positivismo freudiano non giunge all'affermazione che in futuro si attesteranno degli idealiscientifici, ma pensa che sia giusto abolire quanto più possibile la religione atavica. La nostra attuale educazione cerca di inculcare la religione e fare in modo che non si parli del sesso. Secondo Freud questo è eattamente ciò che rende le  persone nevrotiche. Inoltre, secondo Freud, queste due cose sono causa della difficoltà di apprendimento in età adulta.</p>
+<p>Se la religione soddisfa un bisogno, perchè deve essere inculcata? Perchè la religione è un bisgno dell'adulto, non del bambino.</p>
+<p>Abbiamo visto che l'idea che Freud si fa di un'essere umano adulto, sano è l'idea di un umano che accetta la morte dei cari, la propria morte, tutti i mali del mondo che accetta di contrastarli in modo umane ma con una virile rassegnazione. Sapere di essere una parte infiniteesima della natura, e la limitazione dei desideri. Quasi la stessa concezione di Goethe.</p>
 <?php file::footer(); ?>

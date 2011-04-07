@@ -434,7 +434,7 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <?php t("19", "04/04/2011"); ?>
 <p>L'esame non è sulle conoscenze, ma è pensato come se fosse una lezione, cioè saper riempire la conversazione. Bisogna saper dare l'impressione di poter parlare per 20' di qualsiasi argomento e di saperla ritrovare in un <i>tempo ragionevole</i>. Il secondo appello è il 9/6. Portarsi i libri.</p>
 <?php t2("19.1", "1927 - L'avvenire di un'illusione"); ?>
-<?php t3("19.1.1", "Capitolo 4"); ?>
+<?php t3("19.1.1", "Capitolo 4-8"); ?>
 <p>Tra la spiegazione di Totem e Tabù e questa, della nascita della religione che parla di una debolezza umana. In Totem e Tabù c'è l'idea dell'obbedienza retroattiva. Come questo si concilia con la visione che il bambino ha del padre quasi come fosse un super- uomo. Da questo, in ogni religione c'è un doppio delirio: l'antropocentismo,riversiamo su Dio il timore che la sua ira si scateni verso di noi. L'ambivalenza verso il pradre, diventa ambivalenza verso il culto. Il Dio ebraico è uno, e si preseterà come ambivalente. In questo libro, l'ambivalenza per il padre è per appoggio e quello che è avvenuto nell'orda primitiva è conseguenza di questo. Per appoggio = quando qualcuno soddisfa qualche nostro bisogno, è più facle che si crei un rapporto. Questo è banale ma elimina la biologia dall'emotività. Non è una gratitudine che è freddo, razionale.</p>
 <p>Le religioni spiegano le loro credenze in questi tre modi:</p>
 <ul>
@@ -454,4 +454,54 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Il positivismo freudiano non giunge all'affermazione che in futuro si attesteranno degli idealiscientifici, ma pensa che sia giusto abolire quanto più possibile la religione atavica. La nostra attuale educazione cerca di inculcare la religione e fare in modo che non si parli del sesso. Secondo Freud questo è eattamente ciò che rende le  persone nevrotiche. Inoltre, secondo Freud, queste due cose sono causa della difficoltà di apprendimento in età adulta.</p>
 <p>Se la religione soddisfa un bisogno, perchè deve essere inculcata? Perchè la religione è un bisgno dell'adulto, non del bambino.</p>
 <p>Abbiamo visto che l'idea che Freud si fa di un'essere umano adulto, sano è l'idea di un umano che accetta la morte dei cari, la propria morte, tutti i mali del mondo che accetta di contrastarli in modo umane ma con una virile rassegnazione. Sapere di essere una parte infiniteesima della natura, e la limitazione dei desideri. Quasi la stessa concezione di Goethe.</p>
+
+<?php t("20", "05/04/2011"); ?>
+<p>L'esame non è sulle conoscenze, ma è pensato come se fosse una lezione, cioè saper riempire la conversazione. Bisogna saper dare l'impressione di poter parlare per 20' di qualsiasi argomento e di saperla ritrovare in un <i>tempo ragionevole</i>. Il secondo appello è il 9/6. Portarsi i libri.</p>
+<?php t2("20.1", "1927 - L'avvenire di un'illusione"); ?>
+<p>La colpa originaria dell'educazione è quello di aver come obbiettivo l'inibizione della libertà di pensiero. Questo viene fatto da una parte inibendo qualsiasi discorso a sfondo sessuale, dall'altra ad accettare in modo dogmatico quello che gli viene detto. Se educare significa far diventare grandi, la religione continua a darci consolazioni che sono un modo per non affrontare la realtà. Perchè la società preferisce la proibizione? La fretta: se vogliamo ottenere dei risultati nell'immediato, il divieto funziona meglio e prima. La società ha fretta perchè chi arriva prima ha fretta di <i>schiacciare</i> la generazione successiva. Freud non pone il problema come <i>"ritorno alla natura</i>, ma lo fa in nome del rispetto per la curiosità e l'intelliegenza del bambino. Non è una filosofia regressiva ma progressiva. Freud ritiene che la nostra cultura, in tutte le sue fratture con la natura, abbia fatto l'unica cosa possibile, e che bisogna andare ancora oltre da questo punto di vista.</p>
+<p>Il mondo che io credo di avere intorno a me, propriamente parlando, io inizio a rappresentarlo come qualcosa fuori di me solo dopo una fase iniziale in cui l'io (bambino) non distingue tra il proprio corpo e il resto del mondo. Il mondo, da un punto di vista onto-genetico, all'inizio faceva parte della persona, poi si è separato poichè il bambino si accorge che non dipende da lui. Nelle ultime righe, Freud richiama Kant. Il mondo esterno si è sviluppato a partire dai nostri bisogni. Il mondo fuori di me l'ho prodotto per mezzo di bisogni. Il nostro rapporto con l'oggettività è mediato dai nostri bisogni. La costituzione psichica umana condiziona la conoscenza, ma deve conformarsi a come stanno le cose per avere un successo. Esiste un criterio di validazione che è quello del successo.</p>
+<?php t2("20.2", "1929 - Il disagio della Civiltà"); ?>
+<p>Freud sostiene che la civiltàdebba continuare sul suo cammino, smussando degli aspetti migliorabili. A differenza delle opere decadentiste, non afferma che la società sta tramontando. Freud pensa che l'umanità deve assumersi sempre di più le responsabilità delle scelte. Questo è l'esatto contrario delle opere decadenti. Lo sguardo di Freud è sempre rivolto verso un futuro in cui l'umanità è diventata più adulta.</p>
+<p>I primi 3 capitoli sono introduttivi.</p>
+<?php t3("20.2.1", "Capitolo 1"); ?>
+<p>L'accusa che Rollant fa a Freud è quello di non aver capito la necessità dell'individuo di far parte del tutto. Secondo Freud, il bambino non nasce con uno spirito di appartenenza a un tutto originale. Verso l'esterno l'Io sembra mantenere la differenza tra Io e non-Io. Così non è. Nel caso dell'innamoramento 'io e tu' siamo la stessa cosa, ed è pronto a sacrificare il suo bene  per questo <i>Io più grande</i>.</p>
+<p>Il bambino si rende conto che ci sono delle parti del mondo che non si possono allontanare. All'origine tutto è io.</p>
+<p>Il sentimento  oceanico, secondo Freud, è un modo regressivo per tornare al momento in cui non si trovava la differenza tra il proprio corpo e  il resto.</p>
+<p>Il tema centrale è che l'uomo civilesi è civilizzato, ma le istanze dell'uomo non civilizzato sono ancora vive.</p>
+<p>Nella psiche, e solo nella psiche, il passato non si cancella mai.</p>
+<p>Il rimosso può dirigere le azioni conscie.</p>
+<p>a religione è l'impotenza davanti a una figura ambivalente, mentre nel sentimento oceanico, c'è solo il ricordo di un sentimento di quiete dell'infanzia. Una persona che ha una religione che non lo spinga a far nulla è una persona che non è una religione.</p>
+
+<?php t("21", "05/04/2011"); ?>
+<?php t2("21.1", "1929 - Il disagio della Civiltà"); ?>
+<?php t3("21.1.1", "Capitolo 1"); ?>
+<p>Cause dei mali della vita</p>
+<ul>
+  <li>Corpo
+  <li>Natura (inequa)
+  <li>Altri esseri umani (ingiustizie sociali)
+</ul>
+<p>Soluzioni</p>
+<ul>
+  <li>Diversivi
+  <li>Soddisfacimenti sostitutivi
+  <p>Al posto di non pensare, pensare a qualcosa di concreto che può fornirgli una sostituzione per quel bene che non riesce a trovare. Il principale è il lavoro, nel senso anche largo (volontariato..)</p>
+  <li>Sostanze inebrianti
+  <p>È il mezzo di consolazione ultimo per chi non riesce in altro modo a far fronte dei problemi della vita.</p>
+</ul>
+<p>Una delle ragioni per cui gli uomini cercano soluzioni nei momenti di tristezza è la domanda <i>che senso ha la vita?</i>. Questa domanda ci viene suggerita dalle religioni, poichè è solo in un quadro già religioso che questa domanda ha senso. La vita si deve valutare sempre dall'interno e non dall'esterno. Se ci si pone dall'esterno è come se già si avesse posto l'inutilità di questa vita, poichè si fa diventare mezzo e non fine. È il frutto di un'educazione che tende a svalutare le singole cose della vita, cioè l'idea di dover rinunciare all'idea di uno scopo. Le cose non hanno uno scopo, ma noi proiettiamo lo scopo sulla cosa.</p>
+<p>Freud riduce i nostri comportamenti alle cause che le precedono. Secondo Freud è sempre possibile trovare cause deterministiche per ogni azione, anche se la persona afferma che  ha usato il libero arbitrio.</p>
+<p>Quali sono le forze che ci muovono nei nostri comportamenti? La principale è la libido, che non può essere ulteriormente spiegata. Il principio del piacere può essere soddisfatto in due modi:</p>
+<ul>
+  <li>Debole (non provare dispiacere)
+  <p>Non dà felicità e fa provare noia</p>
+  <li>Forte (soddisfazione del piacere)
+</ul>
+<p>Il disagio della civiltà è principalemente causata dalla noia.</p>
+<p>Ci sono delle forme di deviazioni del piacere che sono più o meno sociali. Anche chi crede di fuggire dal mondo, è costretto a rimanere nel mondo. Se si sforza di lasciar la realtà fuori dalla porta, l'individuo diventerà paranoico, stando poi male perchè tutto rischia di mettere a rischio tutto il proprio castello. Freud pensa che il lavoro sia la miglior via di fuga dal dolore, perchè si integra nella società.</p>
+<p>Le persone non si accontentano cheun'altro fornisca qualcosa, ma che lo faccia con affettività. Quell'affettività deve essere tolta dal partner e sacrificata alla società</p>
+<p>Una religione ha senso solo se è collettiva. L'essenza delle religioni è l'essere un siistema collettivo. Se è personale, si rischia cadere in un sistema paranoico.</p>
+<p>Nel rapporto a 2 il rischio di perdere l'oggetto amato, impedisce a questo di essere una soluzione alla tristezza sociale.</p>
+<p>L'amare tutti è contrario al merito, poichè non tutti meritano di essere amati, e se amo tutti faccio torto a chi dovrei amare veramente. Chi ha una propensione di amare il genere umano nella sua totalità si sta dipingendo un'umanità diversa da quella che è e cerca di non vedere alcune cose che fanno parte della realtà. Ci si comporta così quando si è certi che non si è un'oggetto d'amore.</p>
+<p>La religione ha delle pretese più assurde di quelle dell'ordinamento sociale perchè la seconda si ferma ad un certo punto, mentre la religione impone a tutti le stesse cose, come potrebbe essere il divieto dei rapporti extra-matrimoniali. Impone a tutti regole che - tutte assieme - non vanno bene a nessuno.</p>
 <?php file::footer(); ?>

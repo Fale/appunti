@@ -270,13 +270,36 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
   <p>Galileo pensa che Dio ha scritto due libri (Libro della Bibbia, Libro della Natura), perchè la prima è scritta per tutti, ma bisogna fidarsi. Il Libro della Natura, invece, è intellegibile solo per chi padrona il ragionamento, l'intelletto e il discorso. Solo le dimostrazioni matematiche non sono passibili di dimostrazione.</p>
 </ul>
 <p>Foscarini riguarda la Bibbia e la Teologia canonica e suddivide i passi 'problematici' in 6 categorie</p>
-<ul>
+<ol>
   <li>Moto della Terra
   <li>Immobilità del Sole
   <li>Discesa e ascesa di Cristo
   <li>Inferno (dogmi)
   <li>Contrapposizione tra Cielo e Terra
   <li>I teologi sostengono (dogmi) che dopo il giudizio universale, il Sole si fermerà ad Oriente
-</ul>
+</ol>
 <p>Poichè neanche con il Sistema Aristotelico, non è possibile prendere i passi così come sono, Foscarini usa dei passaggi teologici e fisici per dimostrare che la teoria copernicana non è contro le Sacre Scritture, e che il sistema di Copernico è molto più funzionale per la Bibbia. Con questo, diventa possibile interpretare il passo del candelabro a 7 bracci, che prima non era interpretabile.</p>
+
+<?php t("19", "05/04/2011"); ?>
+<?php t2("19.1", "Lettere Copernicane"); ?>
+<?php t3("19.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>Foscarini da due motivazioni per considerare la teoria copernicana come più probabile:</p>
+<ul>
+  <li>Inconsistenza del sistema fisico Aristotelico
+  <li>Il sistema tolemaico è molto complesso e non riesce a spiegare la vera disposizione dell'universo
+</ul>
+<p>Foscarini non ritienee che le facoltà umane naturali possano farci conseguire la verità della natura. Galilei pensa che intensivamente abbiamo una certezza della conocenza ce equipara quella di Dio.</p>
+
+<?php t("20", "05/04/2011"); ?>
+<?php t2("20.1", "Lettere Copernicane"); ?>
+<?php t3("20.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>Le orbite sono cos disposte:</p>
+<ul>
+  <li>Concave
+  <li>Terra
+  <li>Convesse
+  <li>Sole
+</ul>
+<p>Foscarini cita moltissimi passi di Coeprnico, ma Copernico pone queste frasi citate in posti diversi.</p>
+<p>Secondo Foscarini la Sacra Scrittura si occupa solo della salvezza quindi non si occupa dei <i>subtilia</i> ma solo degli <i>utilia</i>. Foscarini da una parte stabilisce che Dio quando crea la natura la crea secondo leggi immutabili, ma secondo Foscarini, il nostro modo di conoscere è sempre a posteriori (noi conosciamo la cosa solo dai suoi effetti che sono a posteriori della sua essenza). Galileo ppensa che vi è una parte del nsotro sapere che è a priori (Secondo la filosofia Aristotelica è a priori quando si adegua la costruzione pratica quando si realizza una cosa secondo un progetto mentale (o meno)) grazie alla quale possiamo ... e ci è data da Dio e con le quali noi ragioniamo sui ....</p>
 <?php file::footer(); ?>

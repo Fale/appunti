@@ -505,10 +505,10 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>L'amare tutti è contrario al merito, poichè non tutti meritano di essere amati, e se amo tutti faccio torto a chi dovrei amare veramente. Chi ha una propensione di amare il genere umano nella sua totalità si sta dipingendo un'umanità diversa da quella che è e cerca di non vedere alcune cose che fanno parte della realtà. Ci si comporta così quando si è certi che non si è un'oggetto d'amore.</p>
 <p>La religione ha delle pretese più assurde di quelle dell'ordinamento sociale perchè la seconda si ferma ad un certo punto, mentre la religione impone a tutti le stesse cose, come potrebbe essere il divieto dei rapporti extra-matrimoniali. Impone a tutti regole che - tutte assieme - non vanno bene a nessuno.</p>
 
-<?php t("22", "05/04/2011"); ?>
+<?php t("22", "07/04/2011"); ?>
 <?php t2("22.1", "1929 - Il disagio della Civiltà"); ?>
 <?php t3("22.1.1", "Capitolo 1-2"); ?>
-<p>LA religione aumenta il grado di infelicità dei singoli, pregiudicando il gioco di scelte e adattamenti imponendo una via unica sminuendo il valore della vita. La religione fa in modo che l'individuo non abbia bisogno di crearsi una nevrosi ossessiva personale, fornendogliene una collettiva. La religione mantiene in un'infantilismo psichico l'adepto fornendo un modello di padre, lasciandoli come bambini che non crescono mai. Freud tende a non attaccare il cristianesimo perchè i caratteri dogmatici etc sono palesi anche senza l'aiuto della psicanalisi.</p>
+<p>La religione aumenta il grado di infelicità dei singoli, pregiudicando il gioco di scelte e adattamenti imponendo una via unica sminuendo il valore della vita. La religione fa in modo che l'individuo non abbia bisogno di crearsi una nevrosi ossessiva personale, fornendogliene una collettiva. La religione mantiene in un'infantilismo psichico l'adepto fornendo un modello di padre, lasciandoli come bambini che non crescono mai. Freud tende a non attaccare il cristianesimo perchè i caratteri dogmatici etc sono palesi anche senza l'aiuto della psicanalisi.</p>
 <?php t3("22.1.2", "Capitolo 3"); ?>
 <p>Perchè è nata una curiosità per altre culture? Perchè è nata l'idea che ogni civiltà debba essere valutata con parametri intrinseci e non estrinseci? Per Freud, la società occidentale ha come punto di forza la capicità di guardare se stessa in modo scientifico.</p>
 <p>Nella battagglia tra il cristianesimo e le religioni pagane è stato messo in discussione, per la prima volta, la civiltà.</p>
@@ -522,5 +522,14 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
   <li>Si crea una doppiezza
   <p>Si introduce una cosa sbagliata e una toppa (ancor peggiore).</p>
 </ul>
-<p></p>
+
+<?php t("23", "12/04/2011"); ?>
+<?php t2("23.1", "1929 - Il disagio della Civiltà"); ?>
+<?php t3("23.1.1", "Capitolo 3-4-5"); ?>
+<p>Nel momento in cui noi ci poniamo davanti alla nostra civiltà la domanda se questa società di fa del bene o meno, ci rendiamo più debolit di coloro che non se la pongono, poichè a volte la risposta sarà negativa, mentre se non ci si fa la domanda, non è possibile avere risposte negative.</p>
+<p>Se una classe intera afferma disagio per una situazione, non si può dire che si arrangino o che sbagliano o illegittime.</p>
+<p>I pensatori del '600 pensavano che le persone tendono ad aggregarsi per vantaggi contabili, mentre Freud aggiunge anche l'aver vicino l'oggetto sessuale. Nell'uomo, la sessualità è permanente, quindi diventa utile tenere vicino l'oggetto sessuale. È come se la sessualità permanente avesse causato l'addomesticamento della donna. Quando l'uomo si sollevò sulle zampe posteriori, avvennero tali mutamenti che portarono addirittura la creazione della civiltà. Secondo Freud l'uomo avrebbe sostituito gli stimoli visivi da quelli olfattivi. La prima era legata solo a certi periodi, mentre la seconda è sempre presente. Freud suppone che questa modifica è in realtà un'indebolimento della sessualità umana. Nell'unione familiare, c'è chi comanda e chi obbedisce. La forza fisica è la casa di questo. Per Freud, la famiglia è anche il luogo dove nascono le nevrosi. La famiglia non si fa rinchiudere all'interno di una società più ampia se non con proteste immense. La donna ha nella famiglia un ruolo le richiede il massimo dell'impegno perchè deve mediare tra il padre e i figli e tutto quello che viene chiesto all'uomo, sono inviti a trascurare la propria donna. La donna è quindi danneggiata dalla vita civile. L'ammontare dell'energia psichica che è riversato nella società è rimosso dalla libido.</p>
+<p>Anche a livello sessuale, l'opera della civiltà è di impoverimento sia delle alternative sia della libido. La psiche non ha sesso, i corpi si. La bisessualità psichica è normale. La società impone, a seconda della sessualità corporea, un modello a cui si deve collocare la sessualità psichica.</p>
+<p>Secondo Freud, anche eliminando la proprietà privata, la situazione non cambierebbe molto perchè la vera forza di comparazioni sono sessuali e non economiche.</p>
+<p>Perchè la piccola differenza sembra che produca il massimo delal distanza? I membri di una comunità hanno un'accordo più semplice se hanno un nemico, e questo qualcuno deve essere esistente e vicino. Qui Freud evidenzia che c'è un'inclinazione aggressiva che non è accettabile dalla società, quindi viene riversato su un membro che non sembra essere completamente parte della società.</p>
 <?php file::footer(); ?>

@@ -290,7 +290,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 </ul>
 <p>Foscarini non ritienee che le facoltà umane naturali possano farci conseguire la verità della natura. Galilei pensa che intensivamente abbiamo una certezza della conocenza ce equipara quella di Dio.</p>
 
-<?php t("20", "05/04/2011"); ?>
+<?php t("20", "07/04/2011"); ?>
 <?php t2("20.1", "Lettere Copernicane"); ?>
 <?php t3("20.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>Le orbite sono cos disposte:</p>
@@ -302,4 +302,12 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 </ul>
 <p>Foscarini cita moltissimi passi di Coeprnico, ma Copernico pone queste frasi citate in posti diversi.</p>
 <p>Secondo Foscarini la Sacra Scrittura si occupa solo della salvezza quindi non si occupa dei <i>subtilia</i> ma solo degli <i>utilia</i>. Foscarini da una parte stabilisce che Dio quando crea la natura la crea secondo leggi immutabili, ma secondo Foscarini, il nostro modo di conoscere è sempre a posteriori (noi conosciamo la cosa solo dai suoi effetti che sono a posteriori della sua essenza). Galileo ppensa che vi è una parte del nsotro sapere che è a priori (Secondo la filosofia Aristotelica è a priori quando si adegua la costruzione pratica quando si realizza una cosa secondo un progetto mentale (o meno)) grazie alla quale possiamo ... e ci è data da Dio e con le quali noi ragioniamo sui ....</p>
+
+<?php t("21", "08/04/2011"); ?>
+<?php t2("21.1", "Lettere Copernicane"); ?>
+<?php t3("21.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+
+<?php t("22", "12/04/2011"); ?>
+<?php t2("22.1", "Lettere Copernicane"); ?>
+<?php t3("22.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <?php file::footer(); ?>

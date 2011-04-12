@@ -310,4 +310,13 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t("22", "12/04/2011"); ?>
 <?php t2("22.1", "Lettere Copernicane"); ?>
 <?php t3("22.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>Nel quarto e quinto fondamento Foscarini cerca di spiegare perchè la Terra si può considerare ferma nonostante i tre moti. Anche il quarto e il quinto fondamento vengono ripresi da Copernico. Galilei ha una tradizione platonica (sopratutto Plutarco e Simplicio).</p>
+<p>Foscarini si discosta da Copernico per un paio di punti:</p>
+<ul>
+  <li>La finitezza del mondo
+  <p>Foscarini parla sempre del mondo come una sfera immensa, mentre Copernico afferma che non è possibile sapere.</p>
+  <li>La gravità
+  <p>Foscarini non parla con lucidità della gravità a volte parlando di corpi leggersi di per se.</p>
+</ul>
+<p>Foscarini non parla di vuoto tra i pianeti perchè questo sarebbe stato contrario alla teoria Aristotelica che proponeva come formula del moto V = F/R. </p>
 <?php file::footer(); ?>

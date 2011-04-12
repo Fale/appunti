@@ -504,4 +504,23 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Nel rapporto a 2 il rischio di perdere l'oggetto amato, impedisce a questo di essere una soluzione alla tristezza sociale.</p>
 <p>L'amare tutti è contrario al merito, poichè non tutti meritano di essere amati, e se amo tutti faccio torto a chi dovrei amare veramente. Chi ha una propensione di amare il genere umano nella sua totalità si sta dipingendo un'umanità diversa da quella che è e cerca di non vedere alcune cose che fanno parte della realtà. Ci si comporta così quando si è certi che non si è un'oggetto d'amore.</p>
 <p>La religione ha delle pretese più assurde di quelle dell'ordinamento sociale perchè la seconda si ferma ad un certo punto, mentre la religione impone a tutti le stesse cose, come potrebbe essere il divieto dei rapporti extra-matrimoniali. Impone a tutti regole che - tutte assieme - non vanno bene a nessuno.</p>
+
+<?php t("22", "05/04/2011"); ?>
+<?php t2("22.1", "1929 - Il disagio della Civiltà"); ?>
+<?php t3("22.1.1", "Capitolo 1-2"); ?>
+<p>LA religione aumenta il grado di infelicità dei singoli, pregiudicando il gioco di scelte e adattamenti imponendo una via unica sminuendo il valore della vita. La religione fa in modo che l'individuo non abbia bisogno di crearsi una nevrosi ossessiva personale, fornendogliene una collettiva. La religione mantiene in un'infantilismo psichico l'adepto fornendo un modello di padre, lasciandoli come bambini che non crescono mai. Freud tende a non attaccare il cristianesimo perchè i caratteri dogmatici etc sono palesi anche senza l'aiuto della psicanalisi.</p>
+<?php t3("22.1.2", "Capitolo 3"); ?>
+<p>Perchè è nata una curiosità per altre culture? Perchè è nata l'idea che ogni civiltà debba essere valutata con parametri intrinseci e non estrinseci? Per Freud, la società occidentale ha come punto di forza la capicità di guardare se stessa in modo scientifico.</p>
+<p>Nella battagglia tra il cristianesimo e le religioni pagane è stato messo in discussione, per la prima volta, la civiltà.</p>
+<p>Il grado di Shock culturale che c'è stato a seguito della scoperta del nuovo mondo era tale da scuotere tutto. Inoltre il Vangelo afferma che gli apostoli sono stati inviati in tutti gl iangoli della Terra, il fatto che questi non siano andati in un'intero continente, vuol dire che anche la religione Cristiana era relativa e legata ad una specifica cultura.</p>
+<p>Secondo Freud la psicanalisi ha creato uno shock culturale simile a quello della scoperta delle americhe.</p>
+<p>Non c'è un aspetto del vivere civile che non sia l'effetto di una rinuncia pulsionale. La civiltà è costituita da un patrimoniodi pulsioni individuali a cui abbiamo rinunciato. Le vendette non compiute causano il risentimento poichè viene interiorizzata. Il bene della società è fondato sul male del singolo, cioè della frustrazione. La chiesa limita la sessualità in modo molto superiore rispetto a quanto limiti la società, ma anche la società limita in modo parziale queste libertà.</p>
+<p>Quando Aristotele parla della vendetta (moderna) nel senso di capacità di modulare il prprio comportamento sulla base di quello che ci ha fatto. Se la società è fatta da persone che sono mosse da rassegnazione/rinuncia sono schiavi, perchè  gli schiavi devono subire. Freud, seguendo Aristotele, afferma che l'amore universale, l'umiltà e gli altri valori Cristiani comportano due problemi:</p>
+<ul>
+  <li>Si crea una civiltà debole
+  <p>Questo è poi attenuato dal perdono.</p>
+  <li>Si crea una doppiezza
+  <p>Si introduce una cosa sbagliata e una toppa (ancor peggiore).</p>
+</ul>
+<p></p>
 <?php file::footer(); ?>

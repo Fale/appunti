@@ -251,9 +251,9 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Il 7 Marzo 1615 Bellarmino risponde a Galileo dicendo che la teoria Copernicana è solo una teoria matematica.</p>
 <p>Il 20 Marzo 1615 Caccini denuncia Galilei al Santo Uffizio.</p>
 
-<?php t("18", "01/04/2011"); ?>
-<?php t2("18.1", "Lettere Copernicane"); ?>
-<?php t3("18.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<?php t("17", "01/04/2011"); ?>
+<?php t2("17.1", "Lettere Copernicane"); ?>
+<?php t3("17.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>L'opera di Foscarini viene bandita per ue motivi:</p>
 <ul>
   <li>Foscarini cerca di difendere il sistema copernicano come verità, dando una base fisica alla teoria copernicana
@@ -280,9 +280,9 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 </ol>
 <p>Poichè neanche con il Sistema Aristotelico, non è possibile prendere i passi così come sono, Foscarini usa dei passaggi teologici e fisici per dimostrare che la teoria copernicana non è contro le Sacre Scritture, e che il sistema di Copernico è molto più funzionale per la Bibbia. Con questo, diventa possibile interpretare il passo del candelabro a 7 bracci, che prima non era interpretabile.</p>
 
-<?php t("19", "05/04/2011"); ?>
-<?php t2("19.1", "Lettere Copernicane"); ?>
-<?php t3("19.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<?php t("18", "05/04/2011"); ?>
+<?php t2("18.1", "Lettere Copernicane"); ?>
+<?php t3("18.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>Foscarini da due motivazioni per considerare la teoria copernicana come più probabile:</p>
 <ul>
   <li>Inconsistenza del sistema fisico Aristotelico
@@ -290,9 +290,9 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 </ul>
 <p>Foscarini non ritienee che le facoltà umane naturali possano farci conseguire la verità della natura. Galilei pensa che intensivamente abbiamo una certezza della conocenza ce equipara quella di Dio.</p>
 
-<?php t("20", "07/04/2011"); ?>
-<?php t2("20.1", "Lettere Copernicane"); ?>
-<?php t3("20.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<?php t("19", "07/04/2011"); ?>
+<?php t2("19.1", "Lettere Copernicane"); ?>
+<?php t3("19.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>Le orbite sono cos disposte:</p>
 <ul>
   <li>Concave
@@ -303,13 +303,13 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Foscarini cita moltissimi passi di Coeprnico, ma Copernico pone queste frasi citate in posti diversi.</p>
 <p>Secondo Foscarini la Sacra Scrittura si occupa solo della salvezza quindi non si occupa dei <i>subtilia</i> ma solo degli <i>utilia</i>. Foscarini da una parte stabilisce che Dio quando crea la natura la crea secondo leggi immutabili, ma secondo Foscarini, il nostro modo di conoscere è sempre a posteriori (noi conosciamo la cosa solo dai suoi effetti che sono a posteriori della sua essenza). Galileo ppensa che vi è una parte del nsotro sapere che è a priori (Secondo la filosofia Aristotelica è a priori quando si adegua la costruzione pratica quando si realizza una cosa secondo un progetto mentale (o meno)) grazie alla quale possiamo ... e ci è data da Dio e con le quali noi ragioniamo sui ....</p>
 
-<?php t("21", "08/04/2011"); ?>
+<?php t("20", "08/04/2011"); ?>
+<?php t2("20.1", "Lettere Copernicane"); ?>
+<?php t3("20.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+
+<?php t("21", "12/04/2011"); ?>
 <?php t2("21.1", "Lettere Copernicane"); ?>
 <?php t3("21.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
-
-<?php t("22", "12/04/2011"); ?>
-<?php t2("22.1", "Lettere Copernicane"); ?>
-<?php t3("22.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>Nel quarto e quinto fondamento Foscarini cerca di spiegare perchè la Terra si può considerare ferma nonostante i tre moti. Anche il quarto e il quinto fondamento vengono ripresi da Copernico. Galilei ha una tradizione platonica (sopratutto Plutarco e Simplicio).</p>
 <p>Foscarini si discosta da Copernico per un paio di punti:</p>
 <ul>
@@ -319,4 +319,23 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
   <p>Foscarini non parla con lucidità della gravità a volte parlando di corpi leggersi di per se.</p>
 </ul>
 <p>Foscarini non parla di vuoto tra i pianeti perchè questo sarebbe stato contrario alla teoria Aristotelica che proponeva come formula del moto V = F/R. </p>
+
+<?php t("22", "14/04/2011"); ?>
+<?php t2("22.1", "Lettere Copernicane"); ?>
+<?php t3("22.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>Le sostanze miste sono gli uomini (anima e corpo).</p>
+<p>Per spiegare il divenire, Platone distingue 3 grandezze di triangoli, le quali determinavano un mutamento della sostanza. Più sono piccoli più sono veloci. La tradizione neo-platonica (sopratuttot tra Plotino e Damascio) si è occupata di conciliare le teorie Platoniche e Aristoteliche. Proclo (V sec) si è trovato da una parte la quinta essenza Aristotelica, dall'altra la teoria del Timeo che sosteneva che tutti i corpi celesti erano gravi. Concluse che tutti i corpi celesti sono fatti degli stessi elementi della Terra, ma i corpi celesti sono fatti di una materia più rarefatta che costituisce la perfezione degli elementi.</p>
+<p>Anche Foscarini ha lo stesso atteggiamento di Galilei, infatti pensa che la natura e la scienza possano aiutare a intepretare i passi in modo non letterale. Galilei considera questo possibili solo se le teorie sono sicure. Foscarini, invece, pensa che basti che sia probabile.</p>
+<p>Foscarini scrive la lettera, che vine pubblicata non si sa bene quando. La lettera è firmata 15/02/15. A metà marzo del 1615 Federico Cesi scrive a Galilei avvertendolo che il testo di Foscarini è stato pubblicato e che glielo avrebbe inviato. Appena uscita la lettera, viene inviata al Santo Uffizio e il censore formula un <i>Judicium</i> (trovato da Domenico Berti) dove il recensore afferma che Foscarini parlava del Copernicanesimo secondo verità e contro le sacre scritture. Foscarini ne viene a conoscenza e scrive una <i>Defentio</i> in latino nella seconda metà di Marzo. Manda il tutto a Bellarmino. Bellarmino è a conoscenza della posizione di Galilei e sapendo che molti nella curia supportavano Galilei.</p>
+
+<?php t("23", "15                                                                                                                                   /04/2011"); ?>
+<?php t2("23.1", "Lettere Copernicane"); ?>
+<?php t3("23.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>È possibile che per la <i>Defentio</i>, Foscarini, si sia fatto aiutare da Galilei, infatti il documento viene scritto in meno di un mese.</p>
+<?php t3("23.1.2", "1615 - Lettera a Paolo Antonio Foscarini"); ?>
+<?php t3("23.1.3", "1615 - Lettera a Cristina di Lorena"); ?>
+<p>Sant'Agostino e San Girolamo affermavano che Dio si manifesta nella natura con la stessa autorevolezza che nelle Sacre Scritture.</p>
+<p>Non viene pubblicata fino al 1637, e prima gira solo in modo raro.</p>
+<p>In questa lettera, Galilei espone le teorie teologiche che sostengono le sue tesi e non tratta mai le tesi fisiche.</p>
+<p>Galilei parla di Copernico come <i>"Astronomo che ha dimostrato"</i>.</p>
 <?php file::footer(); ?>

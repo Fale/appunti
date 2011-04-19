@@ -328,7 +328,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Anche Foscarini ha lo stesso atteggiamento di Galilei, infatti pensa che la natura e la scienza possano aiutare a intepretare i passi in modo non letterale. Galilei considera questo possibili solo se le teorie sono sicure. Foscarini, invece, pensa che basti che sia probabile.</p>
 <p>Foscarini scrive la lettera, che vine pubblicata non si sa bene quando. La lettera è firmata 15/02/15. A metà marzo del 1615 Federico Cesi scrive a Galilei avvertendolo che il testo di Foscarini è stato pubblicato e che glielo avrebbe inviato. Appena uscita la lettera, viene inviata al Santo Uffizio e il censore formula un <i>Judicium</i> (trovato da Domenico Berti) dove il recensore afferma che Foscarini parlava del Copernicanesimo secondo verità e contro le sacre scritture. Foscarini ne viene a conoscenza e scrive una <i>Defentio</i> in latino nella seconda metà di Marzo. Manda il tutto a Bellarmino. Bellarmino è a conoscenza della posizione di Galilei e sapendo che molti nella curia supportavano Galilei.</p>
 
-<?php t("23", "15                                                                                                                                   /04/2011"); ?>
+<?php t("23", "15/04/2011"); ?>
 <?php t2("23.1", "Lettere Copernicane"); ?>
 <?php t3("23.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
 <p>È possibile che per la <i>Defentio</i>, Foscarini, si sia fatto aiutare da Galilei, infatti il documento viene scritto in meno di un mese.</p>
@@ -338,4 +338,9 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Non viene pubblicata fino al 1637, e prima gira solo in modo raro.</p>
 <p>In questa lettera, Galilei espone le teorie teologiche che sostengono le sue tesi e non tratta mai le tesi fisiche.</p>
 <p>Galilei parla di Copernico come <i>"Astronomo che ha dimostrato"</i>.</p>
+
+<?php t("24", "19/04/2011"); ?>
+<?php t2("24.1", "Lettere Copernicane"); ?>
+<?php t3("24.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
+<p></p>
 <?php file::footer(); ?>

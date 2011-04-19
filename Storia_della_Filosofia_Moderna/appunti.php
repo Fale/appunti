@@ -342,5 +342,5 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t("24", "19/04/2011"); ?>
 <?php t2("24.1", "Lettere Copernicane"); ?>
 <?php t3("24.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
-<p></p>
+<p>Secondo Galilei, ci sono due modi di classificare le scienze, uno sulla base di cosa studiano, l'altro sulla base dei principi su cui si basano. La teologia non contiene i principi delle scienze, quindi la teologia è superiore solo perchè studia cose superiori.</p>
 <?php file::footer(); ?>

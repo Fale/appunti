@@ -551,7 +551,7 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 
 <?php t("25", "18/04/2011"); ?>
 <?php t2("25.1", "1929 - Il disagio della Civiltà"); ?>
-<?php t3("25.2.1", "Capitolo 7"); ?>
+<?php t3("25.1.1", "Capitolo 7"); ?>
 <p>La più forte ragione per cui l'uomo civilizzato soffre, è il senso di colpa. Questo è il prezzo della civilizzazione. Quando un malato di nevrosi soffre di rimozioni, queste pulsioni sono sempre di carattere sessuale. Quando si parla delle pulsioni che la società ci chiede di rimuovere, queste pulsioni sono principalmente quelle distruttrici verso gli altri essere umani. Mentre la pulsione sessuale inibita si trasforma in sintomo nevrotico, la pulsione di morte repressa, si trasforma in sintomo autodistruttiva. Lo studio della sessualità è di importanza minore rispetto all'aggressività per lo studio della civiltà. Abbiamo due possibili spiegazioni per l'esistenza del <b>Super-Io</b>.</p>
 <ol>
   <li>Il Super-Io è aggressivo nei confronti dell'Io in quanto rappresenta la prosecuzione all'interno dell'Io di quell'aggressività che il padre nei confronti del bambino
@@ -567,5 +567,40 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Quando faccio del male a qualcuno poi ho un senso di colpa? No, ho il rimorso. Perchè dovrei provare rimorso per un'azione? Noi abbiamo un rapporto ambivalente. Quindi si prova rimorso perchè si prova qualcosa di positivo verso la persona ferita.</p>
 <p>Possiamo dire che provare rimorso per aver commesso qualcosa di sbagliato sia una conseguenza della civiltà? No, la civiltà è repsonsabile solo del senso di colpa.</p>
 <p>Il Super-Io si distingue dalla coscienza morale perchè la coscienza morale è una delle funzioni del Super-Io. Cos'altro fa il Super-Io? Il Super-Io oltre a dire "non fare" è anche, sopratutto nei nevrotici, il modello che questi nevrotici vogliono  essere.</p>
-<p>M@M: il fatto di dover trovare un colpevole genera la morte impersonificata</p>
+
+<?php t("26", "19/04/2011"); ?>
+<?php t2("26.1", "1929 - Il disagio della Civiltà"); ?>
+<?php t3("26.1.1", "Capitolo 7"); ?>
+<p><b>Super-Io</b>: è un'istanza dell'Io che censura l'Io e si presenta come modello "irraggiungibile".</p>
+<p><b>Istanza</b>: non è ne una parte ne una vocina. La parola più corretta sarebbe <i>funzione</i>. Un'istanza implica il concetto che la cosa ha delle richieste, esige, domanda.</p>
+<p><b>Coscienza morale</b>: funzione del Super-Io che critica l'Io per non essere sufficientemente buono. Il Super-Io ricorda all'Io la paura di perdere l'amore.</p>
+<p><b>Senso di colpa</b>: coscienza morale stessa quando è severa con l'Io quando si desidera qualcosa di <i>male</i>. È implicito che deriva da una super-valutazione di noi stessi per quanto detto in Totem e Tabù.</p>
+<p><b>Rimorso</b>: coscienza morale stessa quando è severa con l'Io quando si compie qualcosa di <i>male</i>.</p>
+<p><b>Bisogno di punizione</b>: quando si commette un male, si diventa un'esempio per tutti colori che non l'hanno fatto. La punizione, a livello originario, è una rassicurazione per gli altri sul fatto che il tale divieto sia davvero valido. Chi non trasgredisce i divieti, trova la sua compensazione vedendo che l'autorità punisce qualcuno. Questa è una soddsfazione di carattere sadico. Tutte le volte che pensiamo che sia giusto infliggere una punizione a noi stessi è per compensare la parte dell'Io che ha rispettato le regole (il Super-Io). L'istanza che controlla l'aggressività (il Super-Io) lo fa detenendone il monopolio, così come la Giustizia lo fa nella nostra società.</p>
+<?php t4("26.1.1.1", "Considerazioni"); ?>
+<p>Come è nato il senso di colpa? Col parricidio, quindi un'azione effettuata non immaginata. Il senso di colpa deve nascere dal rimorso. Poichè il padre fu divinzzato, si ritenne che il padre potesse vedere i loro pensieri. Gli ossessivi hanno un continuo senso di colpa, poichè il senso di colpa diventa completamente conscio. Gli isterici non hanno un senso di colpa.</p>
+<p>Il Super-Io è sia il bambino arrabbiato sia il padre.</p>
+<p>Se vengo inibito nelle pulsioni sessuali, sviluppo un'altra fonte di soddisfacimento sessuale. Questo genera spostamento della libido e frustrazione, mentre l'aggressività viene presa dal Super-Io dalle pulsioni di morte. Una pulsione sessuale viene rimossa si trasforma in un sintomo (pensiero ossessivo, paralisi,...). Una pulssione aggressiva viene rimossa si trasforma in senso di colpa.</p>
+<p>Il bambino introietta la figura autoritaria quando deve aver già pensato di poter perdere l'amore e deve avere già provato aggressività per questa situazione. Secondo la dottrina classica, questo non accade prima dei 4 anni. Il Super-Io è una figura dominante, non per forza il padre.</p>
+<p>Questa lottta tra Eros e Destrudo avviene a livello personale, sociale, e a livello di vita organica. Questa sembra essere una formula generale perchè appartiene a molti campi. I processi vitali reggono i processi della psiche individuale e i processi della psiche umana reggono i processi sociali. Mentre lo sviluppo organico del singolo individuo sembra dominato dal principio di piacere, la società non prevede la feicità dei singoli come valore. La meta di una società coesa (bell'alveare) è in contraddizione con il desiderio di felicità individuale. Un incivilimento potrebbe chiedere la rinuncia sessuale.</p>
+<p>Quando il Super-Io e la società ci chiedono di rinunciare a delle cose, si comportano senza senso della realtà.Da l'ordine e non si pone il problema se questo è possibile o meno. Queste istanze censorie sono l'unico modo per contenere l'aggressività. La comunità ha un Super-Io ed è la coscienza morale comune. Anche la massa che biasima è l'immagine introiettata all'interno della civiltà di un padre della società. Queste figure sono sempre grandi persone ma che vengono sbeffeggiate etc. vedi Cristo.</p>
+<p>La genesi dell'affettività umana sono situazioni di imparità (sono tutti più grandi).</p>
+<?php t2("26.2", "19 - L'uomo Mosè "); ?>
+<p>Ultimo testo di Freud. Questo libro è stato molto in attesa di essere pubblicato perchè quest'opera riuscì a insultare contemporaneamente ebrei e cristiani. L'opera si compone di tre saggi.</p>
+<?php t2("26.2.1", "19 - Mosè Egizio"); ?>
+<p>Tutto parte da alcune osservazioni fatte prima di lui per alcune considerazioni:</p>
+<ul>
+  <li>Il nome Mosè suona molto egizio e non ebraico
+  <p>Mose = bambino, e molti nomi conosciutissimi hanno questa desinenza preceduto dal nome della divinità che si ringraziava.</p>
+  <li>Racconto della nascita di Mosè
+  <p>Freud analizza la favola del salvataggio di Mosè dall'acqua e trova una sola interpretazione: Mosè non era un bambino ebreo trovato da una famiglia egizia, ma era un bambino egizio che per avvenimenti da spiegare finì per essere adottato dalla comunità degli Ebrei.</p>
+</ul>
+<p>@M2M: Senso di colpa assente ma forti rimorsi per assenza di super-valutazione</p>
+
+<?php t("27", "28/04/2011"); ?>
+<?php t("28", "02/05/2011"); ?>
+<?php t("29", "03/05/2011"); ?>
+<?php t("30", "05/05/2011"); ?>
+<?php t("31", "09/05/2011"); ?>
+
 <?php file::footer(); ?>

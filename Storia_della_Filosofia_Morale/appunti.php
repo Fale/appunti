@@ -587,7 +587,7 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>La genesi dell'affettività umana sono situazioni di imparità (sono tutti più grandi).</p>
 <?php t2("26.2", "19 - L'uomo Mosè "); ?>
 <p>Ultimo testo di Freud. Questo libro è stato molto in attesa di essere pubblicato perchè quest'opera riuscì a insultare contemporaneamente ebrei e cristiani. L'opera si compone di tre saggi.</p>
-<?php t2("26.2.1", "19 - Mosè Egizio"); ?>
+<?php t3("26.2.1", "Mosè Egizio"); ?>
 <p>Tutto parte da alcune osservazioni fatte prima di lui per alcune considerazioni:</p>
 <ul>
   <li>Il nome Mosè suona molto egizio e non ebraico
@@ -598,6 +598,51 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>@M2M: Senso di colpa assente ma forti rimorsi per assenza di super-valutazione</p>
 
 <?php t("27", "28/04/2011"); ?>
+<?php t2("27.1", "19 - L'uomo Mosè "); ?>
+<?php t3("27.1.1", "Mosè Egizio"); ?>
+<p>Ancor più di Totem e Tabù, quest'opera, è fondata su una serie di documenti e materiali storiografici molto specialistici che Freud può ricavare negli anni precedenti. Alcuni di questi dati non sono più considerati validi. Questo libro si deve leggere in modo che prescinde dall'assoluta verità delle supposizioni da cui parte, mentre sarebbe importante analizzare la teoria psicanalitica di Freud sulle religioni <i>"in sè"</i>. A partire da ipotesi accettabili si forma una teoria potentissima sulle religioni.</p>
+<p>Sulla base di allcuni argomenti, Freud, afferma che Mosè non poteva essere quello che ci racconta l'Esodo, ma che la sua nascita deve essere avvenuta in modo differente.</p>
+<p>L'Esodo sostiene che nel XII/XIV secolo, il Faraone avesse dato ordine di uccidere tutti i nascituri Ebrei, ma con uno stratagemma le levatrici si sottrassero a questo compito di uccidere i maschi. I genitori di Mosè misero il piccolo in una cassa assegnata al Nilo che poi viene trovato dalla figlia del faraone e cresciuto a Corte.</p>
+<p>I motivi per cui Freud sostiene che questo non fosse possibile per i successivi motivi:</p>
+<ul>
+  <li>Il nome Mosè è il nome egizio che siggnifa "bambino"
+  <p>Avendo mantenuto da adulto il suo nome, si identificava come Egizio. Solo nei Leviti (i seguaci di Mosè) ci sono nomi Egiziani. Questo porta a pensare che non solo Mosè ma anche i suoi seguaci più stretti (i sacerdoti) fossero egiziani</p>
+  <li>Se leggiamo la nascita di Mosè con altri racconti troviamo un clishe tradizionale
+  <p>Esempi di altre sono quello di Sargon, Ciro, Romolo, Edipo. I grandi uomini:</p>
+  <ul>
+    <li>Nascono in una famiglia di livello altissimo
+    <li>Sono abbandonati perchè la loro nascita non è voluta o per profezie
+    <li>Viene adottato da una famiglia umile o animale
+    <li>Quando tornano, diventano talmente gloriosi che oscurano il padre o lo uccidono
+  </ul>
+  <p>Freud si è imbattuto più volte nel <i>romanzo Familiare</i>, cioè il mutarsi del rapporto col padre che da spazio a fantasie. Molte storie combaciavano il precedente pattern. Questo romanzo trova una funzione pratica (innobilirsi), e questo trova anche ragione perchè quando si è piccoli, i genitori appaiono come re e regina per la sopravvalutazione. Successivamente, il bambino deve abbassare il valore dei genitori ed entrare in una fase di competizione. Quindi quando i miti raccontano storie simili, possiamo supporre che mentano.</p>
+  <p>Nel caso di Mosè sarebbe rovesciato. Per Freud il mostra troppi stereotipi per essere credibile. Poichè la leggenda è inventata dagli Ebrei, possiamo supporre che l'invenzione sia stata che la famiglia originale fosse di origini Ebraiche. Poichè la sopravvalutazione della prima famiglia fa parte dello schema, possiamo immaginare che sia segno che gli Ebrei fossero superiori al Faraone. Affermando l'esistenza di una persecuzione che obbligava i genitori ad affidare Mosè alle acque dimostrerebbe che il bambino deve farsi strada nel mondo degli adulti (come Gesù e molte altre leggende).</p>
+</ul>
+<?php t3("27.1.1", "Se Mosè Egizio"); ?>
+<p>In questo saggio, Freud, prova a trarre delle conseguenze rispetto</p>
+<ul>
+  <li>Mosè parlava male
+  <p>Secondo Freud questo è spiegabile perchè essendo egizio, Mosè non parlava fluentemente Ebraico</p>
+</ul>
+<p>La religione Ebraica è molto diversa da quella Egizia, principalmente perchè:</p>
+<ul>
+  <li>L'Ebraismo è un monoteismo rigoroso, mentre gli Egizi avevano un grosso Phanteon
+  <li>Gli Egizi erano osssessionati con l'aldilà che è del tutto assente negli Ebrei
+  <li>Gli Egizi rappresentavano gli Dei, umani e animali, mentre è proibito nella religione Ebraica
+  <li>La religione Egizia non sembra essere toccata dalla questione della giustizia divina, mentre l'Ebraismo insiste sulla giustizia
+  <li>Mentre nella cultura Ebraica i riti sono sempre più astratti, mentre gli Egizi erano attenti a questi aspetti
+  <li>Enorme importanza della magia e stregoneria nel popolo Egiziano, condannate invece nel poppolo Ebreo
+</ul>
+<p>Da qui può sembrare assurdo che un Egizio insegni la religione a un popolo. Ma nella storia del popolo Egizio c'è un episodio abbastanza importante ma molto dimenticato. Nel 1375 AC, durante la Diciotessima Dinastia, Amenofi IV sia vissuto in un momento in cui l'Egitto era in una situazione imperiale. Questo imperialismo aveva portato a domandarsi se aveva senso avere un Dio per ogni popolo, o se ci fosse un'unico Dio. Così nasce a paragone del Faraone Unico, nasce l'idea del monoteismo. Il rappresentante dell'unico Dio, era il Sole. Il Sole era solo la manifestazione, ma non il Dio che è ancor più in alto. Da questa religione si ricavano tutti i tratti della religione Ebraica. Dopo la sua morte, tuttto tornò alla normalità. Tutti i sacerdoti di quel culto, si trovarono male, e uno di essi fu Mosè.</p>
+<p>Mosè avrebbe provato a fare un'esperimento sociale provando a fare di una minoranza sociale la sua chiave di fuga dall'Egitto.</p>
+<p>Altre prove che Mosè fosse Egizio:</p>
+<ul>
+  <li>La Bibbia afferma che Mosè abbia insegnato la circoncisione che è una pratica Egizia
+</ul>
+<p>Un punto che non torna nella similitudine tra la cultura di Amenofi e l'Ebraismo è sulla rappresentazione del Dio, che i primi rappresentavano come un sole stilizzato. Freud congettura che questo divieto Ebreo abbia portato la creazione dell'alfabeto.</p>
+<p>Freud mette in dubbio il testo biblico sulla base della letteratura extra-biblica Ebraica.</p>
+<p>L'idea di Freud è che tutta la parte dei patriarchi sarebbe inventata successivamente al momento di Mosè.</p>
+<p>Javè è un Dio vulcanico e quindi deve essere posteriore perchè in Egitto non esistono vulcani. Secondo Freud, questo popolo, uscito dall'Egitto si è incontrato con altre popolazioni e a Cadesh (tra l'arabia e la penisola dei Sinai), molto tempo dopo la morte di Mosè. Questa nuova religione avrebbero creato una giustificazione storica del nuovo Dio che avebbe guidato Mosè fuori dall'Egitto. A questo punto si potrebbe immaginare che un nuovo Mosè abbia insegnato Javè. Questo perchè ci sono due descrizioni molto distinte di Mosè. Come è possibile che gli Ebrei abbiano adottato un Re più fisico, dopo che Mosè insegno una religione molto più astratta? Il popolo uscito dall'Egitto avrebbe ucciso Mosè in una delle rivolte. (seconda tesi scandalosa). Così come i due Mosè vengono fusi, anche i due Dei sono stati fusi e da questo consegue la non chiarezza Biblica.</p>
 <?php t("28", "02/05/2011"); ?>
 <?php t("29", "03/05/2011"); ?>
 <?php t("30", "05/05/2011"); ?>

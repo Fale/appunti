@@ -343,4 +343,39 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t2("24.1", "Lettere Copernicane"); ?>
 <?php t3("24.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
 <p>Secondo Galilei, ci sono due modi di classificare le scienze, uno sulla base di cosa studiano, l'altro sulla base dei principi su cui si basano. La teologia non contiene i principi delle scienze, quindi la teologia è superiore solo perchè studia cose superiori.</p>
+
+<?php t("25", "28/04/2011"); ?>
+<?php t2("25.1", "Lettere Copernicane"); ?>
+<?php t3("25.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
+<p>Galilei, come Copernico prima, non si esprime mai sulla finitezza del mondo perchè da una parte non ha certezze in merito, dall'altra non è  un argomento trattabile perchè off-limits.</p>
+<p>Pag 64 "che poi dal quieto movimento del Sole e della Terra [...] troppo gagliarda immaginativa". Galilei si riferiva al fatto che venivano ancora portate delle prove (quali quelle degli uccelli e nuvole) che non c'entravano. Le sottili dimostrazioni sono appoggiate sopra dimostrazioni più forti di quelle contrarie che richiedono un'immaginazione m olto forte perchè dipende su cose viste e non viste. Il sistema Aristotelico è basato su un sistema che è il prolungamento dei sensi, mentre il sistema Copernicano è spesso in contrasto con i sensi.</p>
+<p>Pag 66: San tommaso afferma che estende [...]. Lo stesso Copernico, nei libri tecnici, dopo che ha dimostrato la mobilità del sistema solare, si esprime seconddo i concetti comunemente ricevuti.</p>
+<?php t4("25.1.1.1", "Quarte risposte"); ?>
+<p>Galileo, nel primo punto, evidenzia che si discute di una cosa controversa, quindi bisogna stare cauti, perchè le proposizioni non-vere sono da condannare. Galilei evidenzia che all'epoca non c'era un conflitto, quindi il loro parere non conti molto. Sant'Agostino è contrario all'usare le Sacre Scritture per le cose oggi conosciute e per le cose che un domani potrebbero essere conosciute.</p>
+<p>Punti:</p>
+<ol>
+  <li>Prima di dichiarare falsa una cosa deve essere esaminata (p 68)
+  <p>Il fatto che tutti i Padri parlassero di una Terra ferma, non implica che loro abbiano condannato l'opinione contraria.</p>
+  <p><i>Nella nota 84, c'è una citazione che non è Copernicana, ma è un ibrido tra Aristotele e Copernico.</i></p>
+  <li>Anche se tutti i Padri si fossero espressi nello stesso modo, questa non è materia di Fede.
+  <p>Nel Concilio Tridentino si dice che la Sacra Scrittura ha solo potere morale e teologica.</p>
+  <li>Peraltro non è vero che tutti i Padri della Chiesa si esprimano allo stesso modo su questa qestione
+  <p>Dionigi e Sant'Agostino e Alfonso Tostado (p 70) ritengono che il primo mobile si è fermato. Alcuni addirittura postulano che è solo un modo per dire che gli Israeliti ci misero pochissimo.</p>
+  <li>Piuttosto, a chi tocca stabilire cosa vogliano dire i profeti nelle Sacre Scritture? Ai teologi contemporanei
+  <p>I teologi devono impegnarsi per trovare il vero senso della questione. Ma lo devono fare basandosi sulle osservazioni e sulla ragione naturale.</p>
+</ol>
+<p>Galilei, neanche sta volta, viene meno al tenere distinti i due ambiti.</p>
+<p>Pur essendo compito dell'età nostra, I teologi devono sentire la cautela che Sant'Agostino consiglia. La dignità delle Sacre Lettere sta più a cuore quelli che consigliano di analizzare bene tutte leposizioni, rispetto a quelli che abbagliati da proprio interesse incitano a dichiarare la dottrina Copernicana eretica.</p>
+<p>Precetti di Sant'Agostino da tenere in caso che si voglia interpretare la Natura con le Sacre Scritture:</p>
+<ul>
+  <li>Nelle questioni oscure, non aderire precipitosamente a nessuna opinione
+  <p><i>Se capitasse di leggere anche nella sacra scrittura passi che, salva la fede a cui posson oessere istituiti, passi che possono dar luogo ad interpretazioni diverse le une dalle altre dobbiamo stare attenti a non precipitarci a sospenere una o l'altra tesi. [...]</i></p>
+  <li>È contrario alla Fede solo ciò che è contro una verità certissima
+  <p>Sono certamente interpretazioni false quelle che non concordano con una verità dimostrata. Da questo si dimostra che la spiegazione del passo di Gisuè che vuole dimostrare Bellarmino come falsa.</p>
+  <li>Prima di stabilire tra due intrepretazioni possibili quale sia la più vera, bisogna vedere il contesto di tutto il passo
+  <p>Nota 96 p 73<i>Ma se una prova fondata avrà dimostrato che questo particolare senso è vero, sarebbe ancora incerto se quello sia il senso voluto attriuire dall'autore dei Libri Sacri a quelle parole oppure se vi sia qualche altro senso non meno vero, perchè se tutto il contesto del passo mostrerà non essere questo ciò che egli veleva dire, non sarà falsa ma vera e più utile da conoscersi l'atra spiegazione che lo scrittore voleva far intendere.</i></p>
+  <li>
+  <p>Che la Sacra Scrittura non abbia altri passi che non dicano altre cose. Se entrambi sono possibili, è incerto quale dei due l'autore volesse suggerire. Non si può escludere che l'autore volesse evidenziare entrambi i sensi. Questo perchè la Sacrra Scrittura può anche essere ambigua nelle questioni naturali, perchè non è tenuta a esprimersi per verità su queste questioni.</p>
+  <p><i>Ma se il contesto della scrittura non esclude che l'autore non volesse [...] circostanze certe</i></p>
+</ul>
 <?php file::footer(); ?>

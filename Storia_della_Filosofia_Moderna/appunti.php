@@ -306,6 +306,7 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t("20", "08/04/2011"); ?>
 <?php t2("20.1", "Lettere Copernicane"); ?>
 <?php t3("20.1.1", "1615 - Lettera sopra l'opinione de' Pitagorici ..."); ?>
+<p>Assente</p>
 
 <?php t("21", "12/04/2011"); ?>
 <?php t2("21.1", "Lettere Copernicane"); ?>
@@ -378,4 +379,9 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
   <p>Che la Sacra Scrittura non abbia altri passi che non dicano altre cose. Se entrambi sono possibili, è incerto quale dei due l'autore volesse suggerire. Non si può escludere che l'autore volesse evidenziare entrambi i sensi. Questo perchè la Sacrra Scrittura può anche essere ambigua nelle questioni naturali, perchè non è tenuta a esprimersi per verità su queste questioni.</p>
   <p><i>Ma se il contesto della scrittura non esclude che l'autore non volesse [...] circostanze certe</i></p>
 </ul>
+
+<?php t("26", "29/04/2011"); ?>
+<?php t2("26.1", "Lettere Copernicane"); ?>
+<?php t3("26.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
+<p>Su libro5</p>
 <?php file::footer(); ?>

@@ -618,7 +618,7 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
   <p>Freud si è imbattuto più volte nel <i>romanzo Familiare</i>, cioè il mutarsi del rapporto col padre che da spazio a fantasie. Molte storie combaciavano il precedente pattern. Questo romanzo trova una funzione pratica (innobilirsi), e questo trova anche ragione perchè quando si è piccoli, i genitori appaiono come re e regina per la sopravvalutazione. Successivamente, il bambino deve abbassare il valore dei genitori ed entrare in una fase di competizione. Quindi quando i miti raccontano storie simili, possiamo supporre che mentano.</p>
   <p>Nel caso di Mosè sarebbe rovesciato. Per Freud il mostra troppi stereotipi per essere credibile. Poichè la leggenda è inventata dagli Ebrei, possiamo supporre che l'invenzione sia stata che la famiglia originale fosse di origini Ebraiche. Poichè la sopravvalutazione della prima famiglia fa parte dello schema, possiamo immaginare che sia segno che gli Ebrei fossero superiori al Faraone. Affermando l'esistenza di una persecuzione che obbligava i genitori ad affidare Mosè alle acque dimostrerebbe che il bambino deve farsi strada nel mondo degli adulti (come Gesù e molte altre leggende).</p>
 </ul>
-<?php t3("27.1.1", "Se Mosè Egizio"); ?>
+<?php t3("27.1.2", "Se Mosè Egizio"); ?>
 <p>In questo saggio, Freud, prova a trarre delle conseguenze rispetto</p>
 <ul>
   <li>Mosè parlava male
@@ -643,7 +643,38 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Freud mette in dubbio il testo biblico sulla base della letteratura extra-biblica Ebraica.</p>
 <p>L'idea di Freud è che tutta la parte dei patriarchi sarebbe inventata successivamente al momento di Mosè.</p>
 <p>Javè è un Dio vulcanico e quindi deve essere posteriore perchè in Egitto non esistono vulcani. Secondo Freud, questo popolo, uscito dall'Egitto si è incontrato con altre popolazioni e a Cadesh (tra l'arabia e la penisola dei Sinai), molto tempo dopo la morte di Mosè. Questa nuova religione avrebbero creato una giustificazione storica del nuovo Dio che avebbe guidato Mosè fuori dall'Egitto. A questo punto si potrebbe immaginare che un nuovo Mosè abbia insegnato Javè. Questo perchè ci sono due descrizioni molto distinte di Mosè. Come è possibile che gli Ebrei abbiano adottato un Re più fisico, dopo che Mosè insegno una religione molto più astratta? Il popolo uscito dall'Egitto avrebbe ucciso Mosè in una delle rivolte. (seconda tesi scandalosa). Così come i due Mosè vengono fusi, anche i due Dei sono stati fusi e da questo consegue la non chiarezza Biblica.</p>
+
 <?php t("28", "02/05/2011"); ?>
+<?php t2("28.1", "19 - L'uomo Mosè "); ?>
+<?php t3("28.1.1", "Se Mosè Egizio"); ?>
+<p>I primi due saggi sono storici, mentre il terzo è psicanalitico.</p>
+<p>L'ipotesi Freudiana mette in discussione il Pentatuto su die punti:</p>
+<ul>
+<li>Il fatto che Mosè fosse egiziano
+</ul>
+<p>e che fosse un sacerdote della Religione di Amenofi IV, una religione monoteistica. Questo Dio vive nella giustizia, esso è il suo massimo valore. Questa religione non si occupa di tutto il culto dei morti, così come l'ebraismo. Alle forze della natura non è attribuita la capacità di miracoli etc. Nell'ebraismo ci sono i divieti completi di raffigurare Dio, gli animali e gli uomini. Inoltre è anche vietato nominare il Dio. Mosè ha scelto il popolo Ebraico per farne il suo popolo. Secondo Freud chiunque riesca a farsi vedere dalle masse come una reincarnazione del Padre può plasmare la massa stessa. Mosè si impose al popolo, e probabilmente ad un certo punto l'ha addirittura ucciso.</p>
+<p>Dopo che Mosè ha portato fuori il popolo Ebreo dall'Egitto e dopo che si fusero con un gruppo locale, si passò a Javè e si riscrisse la storia precedente. Due divinità, due gruppi, due Mosè, due storie, sarebbero il frutto di una sintesi con troppe traacce evidenti. Tutto questo è stato fatto per nascondere l'uccisione di Mosè per opera dei fedeli. Questo spiega perchè la religione monoteistica insegnata da Mosè fa mometaneamente dimenticata. Questo perchè è stato rimosso e non dimenticato. In Egitto invece era stato dimenticato.</p>
+<p>Con la comunione si ammette e si ripete ritualmente l'atto originario dell'uccisione. Per gli ebrei, questo diventa senso di colpa. Gli ebrei hanno creato un Super-Io da questo. I profeti sono dei Super-Io sociali. Gli ebrei non hanno la consistenza numerica per essere una maggioranza, e per il fatto stesso che sono una minoranza, sono un'invito per la repressione. Gli ebrei aggravano questo in due modi:</p>
+<ul>
+  <li>Non si assimilano, sono molto simili ma non uguali
+  <p>Uno che è chiaramente diseguale è tollerabile uno molto simile a noi invece non lo tolleriamo.</p>
+  <li>Per ragioni legate alle tradizioni, è indispensabile la conoscenza della Torah
+  <p>Di conseguenza il numero di analfabeti è bassissimo, e di conseguenza gli Ebrei tendono ad affermarsi in ogni campo della civiltà.</p>
+  <li>La primogeniturra degli Ebrei è presa seriamente dagli altri popoli
+  <p>I pretesti con i quali gli altri hanno provato a distruggere il popolo d'Israele sono spesso desunti da quello che il popolo ebreo dice di se stesso.</p>
+  <p>Il fratello maggiore è sulle difensive, il fratello minore parte con un assetto offensivo.</p>
+</ul>
+<p>Secondo Freud, quello che è successo negli ultimi mille anni cristiani in Europa è che c'è una sottile pellicola di Cristianesimo, ma mantenendo l'ostilità verso il cristianesimo, ma viene rigirata sulla 'causa primaria', cioè l'ebraismo.</p>
+<p>Il secondo saggio si conclude con l'osservazione che è onore bastante per il popolo ebraico essere riusciti a conservare l'insegnamento Mosaico.</p>
+<?php t3("28.1.2", "Terzo Saggio"); ?>
+<p>Freud lascia due avvertenze:</p>
+<ol>
+  <li>Decisi di non scrivere
+  <li>La situazione è così messa male, che tanto vale pubblicare
+</ol>
+<p>Questo perchè il momento in cui scrive (1938) il popolo ebraico era fortemente colpito e fu tenuto in sicurezza dalla Chiesa</p>
+<p>Con i precedenti due saggi si è riusciuto a dare la creazone di una religione monoteista a un grande popolo. Bisogna però spiegare come i continui problemi del Popolo Ebraico non abbiano scalfito l'idea che esista un solo Dio e che loro siano il loro popolo prediletto.</p>
+
 <?php t("29", "03/05/2011"); ?>
 <?php t("30", "05/05/2011"); ?>
 <?php t("31", "09/05/2011"); ?>

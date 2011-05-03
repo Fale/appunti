@@ -383,5 +383,11 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t("26", "29/04/2011"); ?>
 <?php t2("26.1", "Lettere Copernicane"); ?>
 <?php t3("26.1.1", "1615 - Lettera a Cristina di Lorena"); ?>
-<p>Su libro5</p>
+<p>Su libro</p>
+
+<?php t("27", "02/05/2011"); ?>
+<?php t2("27.1", "Testo di Ingoli"); ?>
+<p>Il testo copernicano uscì senza tavolo, ma poco dopo Reinold pubblicò le tavole derivate dal testo di Copernico.</p>
+<p>Ingoli non capisce il testo perchè, non conoscendo Platone considera la parola 'ipotesi' nel senso più stretto, e non nel senso Socratico.</p>
+<p>Galilei sta dal Dicembre del 1615 fino al Giugno 1616, quando muore Foscarini, va a Roma. Galilei torna a Roma nel 1623, quando Urbano VIII diventa Papa.</p>
 <?php file::footer(); ?>

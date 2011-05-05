@@ -681,6 +681,21 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>La religione rimane un'illusione.</p>
 
 <?php t("30", "05/05/2011"); ?>
+<?php t2("30.1", "19 - L'uomo Mosè "); ?>
+<?php t3("30.1.1", "Terzo Saggio"); ?>
+<p>La cosa impressionante è che dopo secoli dall'uccisione di Mosè fu ripresa la religione monoteista. L'omicidio di Mosè non è stato riconosciuto (ammesso), ma rimosso (occultato). Quindi non è diventato oggetto di continue ripetizioni. Qusto perchè Mosè non era un capo, ma era il 'fondatore' del popolo Ebraico.</p>
+<p>Enoteismo = Monoteismo con possibili divinità 'secondarie'</p>
+<p>La latenza è un concetto psicanalitico, perchè il trauma non appare. Questo può causare il sorgere di nevrosi  e psicosi.</p>
+<p>Possiamo supporre che nella fase dello sviluppo c'è il trauma. In un primo momento si assiste a un ripetimento dell'atto in modo attivo. Qunado un trauma è eccessivo, la mente lo cancella. Successivamente ritorno il rimosso.</p>
+<p>L'omicidio di Mosè è stato il trauma e i profeti i sensi di colpa.</p>
+<p>L'uccisione di Mosè a ri-aperto la ferita mai chiusa del parricidio.</p>
+<p>Gli ultimi figli sono avvantaggiati perchè si scontrano con un padre invecchiato.</p>
+<p>Bambino piccolo = minore 2/3 anni</p>
+<p>Secondo Freud, il matriarcato è attestato in molte civiltà ed è il risultato del periodo tra l'uccisione del padre, e la creazione di una società totemica.</p>
+<p>Si può immaginare che il ritorno al monoteismo arriva dall'oblio censorio, perché il rimosso si presenza nella forma di una obbligazione assoluta.</p>
+<p>Freud aveva parlato di una 'memoria collettiva' che si trasmetteva attraverso procedimenti culturali. In quest'opera, l'analogia che viene fatta è quella con l'istinto degli animali. Questo è uno dei punti deboli, anche perchè vacontro uno dei dogmi fondamentali sul Darwinismo.</p>
+<p>Il motivo per cui Freud debba usare la memoria arcaica non è chiara. Una possibile motivazione è che lui vuole dare alla religione una visione patologica.</p>
+
 <?php t("31", "09/05/2011"); ?>
 
 <?php file::footer(); ?>

@@ -391,8 +391,12 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <p>Ingoli non capisce il testo perchè, non conoscendo Platone considera la parola 'ipotesi' nel senso più stretto, e non nel senso Socratico.</p>
 <p>Galilei sta dal Dicembre del 1615 fino al Giugno 1616, quando muore Foscarini, va a Roma. Galilei torna a Roma nel 1623, quando Urbano VIII diventa Papa.</p>
 
-
 <?php t("28", "04/05/2011"); ?>
-<?php t2("28.1", "1624 - Lettera a Francesco Ingoli7yhb e56"); ?>
-<p></p>
+<?php t2("28.1", "1624 - Lettera a Francesco Ingoli"); ?>
+<p>Su libro</p>
+
+<?php t("29", "04/05/2011"); ?>
+<?php t2("29.1", "1624 - Lettera a Francesco Ingoli"); ?>
+<p>"Se per favore non legge il giornale mentre io sto facendo lezione gliene sarei grata heheh, sa sto spiegando anche per lei" (A. De Pace)</p>
+<p>Nel primo paragrafo, Aristotele affera che la perfezione del corpo del mondo è data dalla sua tridimensionalità, e ci sono solo tre dimensioni, e quei corpi che hanno tutte le dimensioni sono perfetti. Da questo Aristotele deduce che il mondo sia sferico. Galilei denuncerà questo passaggio gratuito nel Discorso.</p>
 <?php file::footer(); ?>

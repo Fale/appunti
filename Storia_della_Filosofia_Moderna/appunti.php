@@ -398,5 +398,6 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t("29", "04/05/2011"); ?>
 <?php t2("29.1", "1624 - Lettera a Francesco Ingoli"); ?>
 <p>"Se per favore non legge il giornale mentre io sto facendo lezione gliene sarei grata heheh, sa sto spiegando anche per lei" (A. De Pace)</p>
+<p>"We heheh meglio tardi che mai" (14:02, A De Pace)</p>
 <p>Nel primo paragrafo, Aristotele affera che la perfezione del corpo del mondo è data dalla sua tridimensionalità, e ci sono solo tre dimensioni, e quei corpi che hanno tutte le dimensioni sono perfetti. Da questo Aristotele deduce che il mondo sia sferico. Galilei denuncerà questo passaggio gratuito nel Discorso.</p>
 <?php file::footer(); ?>

@@ -697,5 +697,15 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Il motivo per cui Freud debba usare la memoria arcaica non è chiara. Una possibile motivazione è che lui vuole dare alla religione una visione patologica.</p>
 
 <?php t("31", "09/05/2011"); ?>
-
+<?php t2("31.1", "Ritorno del rimosso (p 442)"); ?>
+<p>Un conto è dimenticare (=rimuovere) e un altro superare. Come si fa a non rimuovere le esperienze negative?</p>
+<p>Se lee cose vengono rimosse, noi ci trasformeremo nei nostri odiati genitori.</p>
+<p>Il rimosso che ritorna è un contenuto sempre traumatico. Il primo trauma è la scoperta che il padre ci avversa. Il bambino non può immaginare che il suo riversare amore su una persona possa creare malumori ad altre persone.</p>
+<p>Quando il rimosso si fa strada? Quando ci sono delle situazione che riattualizzano il rimosso.</p>
+<p>Il peccato originale è la forma in cui si trova necessariamente chi si vuole affermare nel mondo.</p>
+<p>Non avendo superato l'uccisione di Mosè, il popolo ebraico è in un delirio collettivo</p>
+<p>Come si può superare qualcosa per non farlo tornare col rimosso? Bisogna associare il contenuto ad altre affermazioni che sminuiscano il senso. Quando si subisce un'offesa bisogna associarla con delle affermazioni che la ridimensionano e la spieghino. Capcacità doo cmprendere le ragioni dell'altro e cercare di associare ogni volta l'offesa a delle cose che la sminuiscano. Razionalizzare = cercare di relativizzare il trauma.</p>
+<p>Il tratto fondmentale di tutta la vita dell'uomo è la duplicità delle pulsioni, l'ambivalenza etc. L'antropologia Freudiana è sempre duplice. Perchè il sacro è sia positivo sia negativo?</p>
+<p>Quello che Freud individua nel rapporto 1a1, Durkain lo afferma a livelli di gruppi. Renoir Girard afferma che il senso di euforia e paura che proviamo davanti al sacro siano sempre il risultato del rapporto con altri umani, non per forza nel gruppo famigliare, ma sempre emozioni provate. L'aspetto negativo del sacro è motivato dalla massa dei linciatori. Ma quando essa colpisce un unico individuo e facendo di esso l'unico obbiettivo, ritrova la pace. Bacco incarna la violenza uumana.</p>
+<p>L'antropologia di Freud parte dall'idea cheil fonamento di tutta la vita associata è da ricercare in ogni singolo uomo. Dopo Freud, gli autori capovolgono il processo.</p>
 <?php file::footer(); ?>

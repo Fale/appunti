@@ -676,7 +676,7 @@ Le due particolarmenti importanti parti della Kulture sono la religione e la gue
 <p>Con i precedenti due saggi si è riusciuto a dare la creazone di una religione monoteista a un grande popolo. Bisogna però spiegare come i continui problemi del Popolo Ebraico non abbiano scalfito l'idea che esista un solo Dio e che loro siano il loro popolo prediletto.</p>
 
 <?php t("29", "03/05/2011"); ?>
-<?php t("29.1", "Strauss"); ?>
+<?php t2("29.1", "Strauss"); ?>
 <p>Ebreo/ateo in momento anti-semitico Nazzista.</p>
 <p>La religione rimane un'illusione.</p>
 

@@ -395,9 +395,36 @@ toc::show_toc("Storia_della_Filosofia_Moderna/appunti.php");
 <?php t2("28.1", "1624 - Lettera a Francesco Ingoli"); ?>
 <p>Su libro</p>
 
-<?php t("29", "04/05/2011"); ?>
+<?php t("29", "05/05/2011"); ?>
 <?php t2("29.1", "1624 - Lettera a Francesco Ingoli"); ?>
-<p>"Se per favore non legge il giornale mentre io sto facendo lezione gliene sarei grata heheh, sa sto spiegando anche per lei" (A. De Pace)</p>
-<p>"We heheh meglio tardi che mai" (14:02, A De Pace)</p>
+<p>"Se per favore non legga il giornale mentre io sto facendo lezione gliene sarei grata heheh, sa sto spiegando anche per lei" (A. De Pace)</p>
+<p>"We heheh meglio tardi che mai" (14:02, all'entrata di uno studente, A De Pace)</p>
 <p>Nel primo paragrafo, Aristotele affera che la perfezione del corpo del mondo è data dalla sua tridimensionalità, e ci sono solo tre dimensioni, e quei corpi che hanno tutte le dimensioni sono perfetti. Da questo Aristotele deduce che il mondo sia sferico. Galilei denuncerà questo passaggio gratuito nel Discorso.</p>
+
+<?php t("30", "12/05/2011"); ?>
+<?php t2("30.1", "1624 - Lettera a Francesco Ingoli"); ?>
+<?php t3("30.1.1", "I terzi argomenti"); ?>
+<p>Si pagina 178, 179, 226 (Seguono nella vostra scrittura).</p>
+<p>Rotman èun astronomo che entra in conflitto con Tico perchè il primo era Copernicano.</p>
+<p>Tico Brae, aveva portato il problema del cannone.</p>
+<p>L'asse del corpo deve sempre essere orientata verso il sole. Copernico fa ruotare la terra in modo che l'asse sia sempre parallelo a se stesso. In questo modo si spiega l'alternanza delle stagionie il cambiamento della lunghezza delle giornate. Il movimento diurno (p 226). <b>Il movimento circolare mantiene l'ottima disposizione dei corpi</b>. Su questo si basa la gravitazione universale.</p>
+<p>Copernico da due spiegazioni per il movimento dell'aria:</p>
+<ul>
+    <li>Nella parte più bassa, le parti di terra sono mescolate con le parti di area, è quindi naturale il movimento
+    <li>Perchè la terra che è contigua all'aria, conferisce impet oall'aria che si muove senza resistenza
+</ul>
+<p>Gli studiosi che non si sono accorti di quello che Copernico ha detto (quasi come Ingoli) non riescono a vedere che Copernico ha già trattato dei problemi relativi alla relatività dei moti. Queste parti sono state così tanto poco notate, che il decreto di censura non le ha minimamente toccate. Nella seconda giornata del Dialogo, Galilei fa molti esempi di feomeni che noi notiamo, spiegandoli con la quantità di moto. Galilei afferma che tutti questi argomenti sono <i>fatti paracletici</i>. Galilei sostiene che se questi dovessero concludere qualcosa, dovrebbero dar ragione alla teoria Copernicana, perchè la teoria Aristotelica è basate sul fallacie logiche.</p>
+<p>Galilei, nella ridiscesa non si ferma ai fenomeni celesti. Così nella quarta giornata, parla delle maree come prova di questo che doveva essere basata sulla somma del moto annuo e di quello diurno. In aggiunta Galilei porta più prove astronomiche grazie al telescopio, e basandosi su questo afferma che le sue ipotesi sono più provate di quelle Copernicane.</p>
+<p>Per imporre la stabilità della Terra, secondo Galilei, si creano due errori logici:</p>
+<ul>
+    <li>Ingoli manca di capacità logica
+    <li>Ci sono esperienze che si possono fare, affermate di averle fatte ma state mentendo. Questo va contro il concetto di filosofo (amante della sapienza).
+</ul>
+<p>La logica non entra nella filosofia teoretica, perchè si da per presupposta.</p>
+<p>La nave si muove di moto non naturale, ma violento. In ogni caso, anche nel caso del sasso lanciato dall'albero della nave cade perpendicolarmente al mare.</p>
+<p>Galilei sostiene che nel caso della torre, gli aristotelici non hanno altro che l'esperienza. Questa eperienza non è un'inganno dei sensi, ma paracletica. Il motocircolare è impercettibile (relatività ottica) e come se non fosse (perchè è la stessa quantità di velocità). Galilei argomenta "molto meglio" dal tutto alle parti al posto che dalle parti al tutto di Aristotele. Essendo normale movimento della terra ha un tempo di 24 ore, e di conseguenza tutte le altre pati.</p>
+<p>Galilei nega il moto rettilineo di Aristocrate perchè imperfetto, mentre Copernico afferma iil modo circolare. (p244)</p>
+<p>Quando un'osservazione non conferma completamente la teoria, si imputa la colpa a <i>errori sperimentali</i> e <i>errori di approssimazione</i>, quali potrebbero essere gli atriti. (p232). Questo non dimostra nulla, ma toglie il paradosso meccanico. Quello che dimostra la teoria Copernica è la possibilità di verificare l'ordinamento dei pianeti.</p>
+<p>Tre argomenti fisici contro il moto della terra (240~246). Quanto all'ultimo argomento, dove parla del galliardo incontro  (metà pagina 245) benissimo in sicurezza [...]. Il galliardo incontro si riferisce a qualche osservazione astronomica che lui ha fatto: o le fasi di venere, o dei fenomeni di risalita usati da Copernico stesso. Il finale si riferiscce all'ultima frase del capitolo 10 del Testo Copernicano (nota #256 p387 del libro della De Pace).</p>
+
 <?php file::footer(); ?>

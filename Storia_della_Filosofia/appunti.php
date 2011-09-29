@@ -31,6 +31,8 @@ toc::show_toc("Storia_della_Filosofia/appunti.php");
 <p>Per Platone e Aristotele, lo stato è il prolungamento della natura umana. L'uomo è naturalemnte e spontaneamente un animale politico, cioè vive in comunità. Nell'età moderna viene fuori lo stato di natura, cioè una condizione naturale dell'uomo che è una situazione pre-politica. A questo punto si passa ad una legittimazione del potere, se conforme alla legge di natura, derivante dal basso. Catrattualismo e naturalismo permettono una fortissima legittimazione del potere. Lock afferma che il potere è legittimo è quello verso i quali viene rispettato e garantisce ai cittadini il godimento dei loro diritti naturali.</p>
 
 <?php t("2", "29/09/2011"); ?>
-<p></p>
+<?php t2("2.1", "Introduzione"); ?>
+<p>La Filosofia Politica analizza la politica in modo diverso dalle altre scienze politiche. Hobbs è l'inizio della Filosofia Politica poichè da qui deriva il contrattualismo e il geo-naturalismo. Il contrattualismo sostiene che la società e lo stato nascano attraverso un contratto che segna il passaggio tra uno stato pre-politico e uno politico (o civile). Autori: Hobs, Locks e Rousseu. Anche Kant è assimilabile, ma arriva quando il contrattualismo sta tramontando. Il naturalismo prevede che ci siano delle regole che trovano il fondamento nella volontà di Dio. Con l'ingresso del contrattualismo e del geo-naturalismo.</p>
+<?php t2("2.2", "Presentazione rapida di Platone"); ?>
 
 <?php file::footer(); ?>

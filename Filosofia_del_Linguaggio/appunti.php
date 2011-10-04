@@ -83,8 +83,10 @@ Enunciati diversi possono avere diverse strutture logiche, ma un unico enunciato
   <li>&not;&forall;x &not;Mx &equiv; &exist;x Mx
   <li>&not;&forall;x Mx &equiv; &exist;x &not;Mx
   <li>&forall;x &not;Mx &equiv; &not;&exist;x Mx
+</ul>
 <p> &forall;x Mx</p>
 <ul>
   <li>&forall;x &not;Mx (contraria)
   <li>&not;&forall;x Mx (contradditoria)
+</ul>
 <?php file::footer(); ?>

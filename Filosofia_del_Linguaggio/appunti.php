@@ -67,4 +67,24 @@ Enunciati diversi possono avere diverse strutture logiche, ma un unico enunciato
   <li>"Tutto è bello" (x) (Bx)
 </ul>
 <p>"Qualcosa è animato" = non tutto è non animato</p>
+
+<?php t("4", "04/10/2011"); ?>
+<?php t2("4.1", "Il quantificatore universale"); ?>
+<p>Il martedì in Mercalli 101.</p>
+<ul>
+  <li>P = è posseduto da
+  <li>m = la materia
+  <li>(x) P(m,x)
+  <li>(x) P(...,x)
+</ul>
+<p> Quantificatore universale ed esistenziale</p>
+<ul>
+  <li>&exist;x &equiv; &not; &forall; &not;x
+  <li>&not;&forall;x &not;Mx &equiv; &exist;x Mx
+  <li>&not;&forall;x Mx &equiv; &exist;x &not;Mx
+  <li>&forall;x &not;Mx &equiv; &not;&exist;x Mx
+<p> &forall;x Mx</p>
+<ul>
+  <li>&forall;x &not;Mx (contraria)
+  <li>&not;&forall;x Mx (contradditoria)
 <?php file::footer(); ?>
